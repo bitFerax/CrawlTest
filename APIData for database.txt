@@ -1,0 +1,3966 @@
+Query: database
+Total: 566
+Books:
+
+title: Expert Oracle Database Architecture, 2nd Edition
+subtitle: Oracle Database Programming 9i, 10g, and 11g Techniques and Solutions
+isbn13: 9781430229469
+price: $44.99
+image: https://itbook.store/img/books/9781430229469.png
+url: https://itbook.store/books/9781430229469
+
+title: Expert Indexing in Oracle Database 11g
+subtitle: Maximum Performance for Your Database
+isbn13: 9781430237358
+price: $57.34
+image: https://itbook.store/img/books/9781430237358.png
+url: https://itbook.store/books/9781430237358
+
+title: Databases for Small Business
+subtitle: Essentials of Database Management, Data Analysis, and Staff Training for Entrepreneurs and Professionals
+isbn13: 9781484202784
+price: $41.14
+image: https://itbook.store/img/books/9781484202784.png
+url: https://itbook.store/books/9781484202784
+
+title: Next Generation Databases: NoSQL, NewSQL, and Big Data
+subtitle: What every professional needs to know about the future of databases in a world of NoSQL and Big Data
+isbn13: 9781484213308
+price: $32.78
+image: https://itbook.store/img/books/9781484213308.png
+url: https://itbook.store/books/9781484213308
+
+title: Database Reliability Engineering
+subtitle: Designing and Operating Resilient Database Systems
+isbn13: 9781491925942
+price: $42.99
+image: https://itbook.store/img/books/9781491925942.png
+url: https://itbook.store/books/9781491925942
+
+title: Seven Databases in Seven Weeks, 2nd Edition
+subtitle: A Guide to Modern Databases and the NoSQL Movement
+isbn13: 9781680502534
+price: $40.99
+image: https://itbook.store/img/books/9781680502534.png
+url: https://itbook.store/books/9781680502534
+
+title: EJB 3.0 Database Persistence with Oracle Fusion Middleware 11g
+subtitle: A complete guide to EJB 3.0 database persistence with Oracle Fusion Middleware 11g
+isbn13: 9781849681568
+price: $32.99
+image: https://itbook.store/img/books/9781849681568.png
+url: https://itbook.store/books/9781849681568
+
+title: Oracle Database 11gR2 Performance Tuning Cookbook
+subtitle: Over 80 recipes to help beginners achieve better performance from Oracle Database applications
+isbn13: 9781849682602
+price: $32.99
+image: https://itbook.store/img/books/9781849682602.png
+url: https://itbook.store/books/9781849682602
+
+title: Oracle Database and PowerShell How-to
+subtitle: Utilize the power of Microsoft's powerful scripting engine to automate database tasks with Oracle from PowerShell
+isbn13: 9781849688581
+price: $19.99
+image: https://itbook.store/img/books/9781849688581.png
+url: https://itbook.store/books/9781849688581
+
+title: Seven Databases in Seven Weeks
+subtitle: A Guide to Modern Databases and the NoSQL Movement
+isbn13: 9781934356920
+price: $28.52
+image: https://itbook.store/img/books/9781934356920.png
+url: https://itbook.store/books/9781934356920
+
+title: Databases: A Beginner's Guide
+subtitle: 
+isbn13: 9780071608473
+price: $27.99
+image: https://itbook.store/img/books/9780071608473.png
+url: https://itbook.store/books/9780071608473
+
+title: Oracle Database 12c Release 2 Real Application Clusters Handbook
+subtitle: Concepts, Administration, Tuning & Troubleshooting
+isbn13: 9780071830485
+price: $41.84
+image: https://itbook.store/img/books/9780071830485.png
+url: https://itbook.store/books/9780071830485
+
+title: Database Systems, 4th Edition
+subtitle: A Practical Approach to Design, Implementation and Management
+isbn13: 9780321210258
+price: $36.31
+image: https://itbook.store/img/books/9780321210258.png
+url: https://itbook.store/books/9780321210258
+
+title: Beginning Database Design Solutions
+subtitle: 
+isbn13: 9780470385494
+price: $24.72
+image: https://itbook.store/img/books/9780470385494.png
+url: https://itbook.store/books/9780470385494
+
+title: Expert One-on-One Visual Basic 2005 Database Programming
+subtitle: 
+isbn13: 9780471785132
+price: $0.00
+image: https://itbook.store/img/books/9780471785132.png
+url: https://itbook.store/books/9780471785132
+
+title: Database Nation
+subtitle: The Death of Privacy in the 21st Century
+isbn13: 9780596001056
+price: $13.99
+image: https://itbook.store/img/books/9780596001056.png
+url: https://itbook.store/books/9780596001056
+
+title: Access Database Design & Programming, 3rd Edition
+subtitle: 
+isbn13: 9780596002732
+price: $29.99
+image: https://itbook.store/img/books/9780596002732.png
+url: https://itbook.store/books/9780596002732
+
+title: Understanding MySQL Internals
+subtitle: Discovering and Improving a Great Database
+isbn13: 9780596009571
+price: $29.20
+image: https://itbook.store/img/books/9780596009571.png
+url: https://itbook.store/books/9780596009571
+
+title: Learning PHP & MySQL, 2nd Edition
+subtitle: Step-by-Step Guide to Creating Database-Driven Web Sites
+isbn13: 9780596514013
+price: $23.99
+image: https://itbook.store/img/books/9780596514013.png
+url: https://itbook.store/books/9780596514013
+
+title: Oracle Essentials, 4th Edition
+subtitle: Oracle Database 11g
+isbn13: 9780596514549
+price: $24.56
+image: https://itbook.store/img/books/9780596514549.png
+url: https://itbook.store/books/9780596514549
+
+title: Essential SQLAlchemy
+subtitle: Mapping Python to Databases
+isbn13: 9780596516147
+price: $27.99
+image: https://itbook.store/img/books/9780596516147.png
+url: https://itbook.store/books/9780596516147
+
+title: Microsoft Azure SQL Database Step by Step
+subtitle: 
+isbn13: 9780735679429
+price: $31.99
+image: https://itbook.store/img/books/9780735679429.png
+url: https://itbook.store/books/9780735679429
+
+title: Microsoft Exchange Server 2013 Pocket Consultant: Databases, Services, & Management
+subtitle: 
+isbn13: 9780735681750
+price: $31.99
+image: https://itbook.store/img/books/9780735681750.png
+url: https://itbook.store/books/9780735681750
+
+title: Beginning Database Design
+subtitle: 
+isbn13: 9780764574900
+price: $5.85
+image: https://itbook.store/img/books/9780764574900.png
+url: https://itbook.store/books/9780764574900
+
+title: Build Your Own Database Driven Web Site Using PHP & MySQL, 4th Edition
+subtitle: 
+isbn13: 9780980576818
+price: $51.69
+image: https://itbook.store/img/books/9780980576818.png
+url: https://itbook.store/books/9780980576818
+
+title: PHP & MySQL: Novice to Ninja, 5th Edition
+subtitle: The Easy Way to Build Your Own Database Driven Website
+isbn13: 9780987153081
+price: $29.56
+image: https://itbook.store/img/books/9780987153081.png
+url: https://itbook.store/books/9780987153081
+
+title: Oracle Database Performance and Scalability
+subtitle: A Quantitative Approach
+isbn13: 9781118056998
+price: $87.99
+image: https://itbook.store/img/books/9781118056998.png
+url: https://itbook.store/books/9781118056998
+
+title: Practical Database Programming with Visual Basic.NET, 2nd Edition
+subtitle: 
+isbn13: 9781118162057
+price: $73.42
+image: https://itbook.store/img/books/9781118162057.png
+url: https://itbook.store/books/9781118162057
+
+title: Professional iOS Database Application Programming, 2nd Edition
+subtitle: 
+isbn13: 9781118391846
+price: $56.63
+image: https://itbook.store/img/books/9781118391846.png
+url: https://itbook.store/books/9781118391846
+
+title: The Relational Database Dictionary, Extended Edition
+subtitle: 
+isbn13: 9781430210412
+price: $17.82
+image: https://itbook.store/img/books/9781430210412.png
+url: https://itbook.store/books/9781430210412
+
+title: Expert Oracle Practices
+subtitle: Oracle Database Administration from the Oak Table
+isbn13: 9781430226680
+price: $10.99
+image: https://itbook.store/img/books/9781430226680.png
+url: https://itbook.store/books/9781430226680
+
+title: Pro ODP.NET for Oracle Database 11g
+subtitle: 
+isbn13: 9781430228202
+price: $49.13
+image: https://itbook.store/img/books/9781430228202.png
+url: https://itbook.store/books/9781430228202
+
+title: Pro Oracle Database 11g RAC on Linux, 2nd Edition
+subtitle: Installation, Administration, Performance
+isbn13: 9781430229582
+price: $44.99
+image: https://itbook.store/img/books/9781430229582.png
+url: https://itbook.store/books/9781430229582
+
+title: The Definitive Guide to MongoDB
+subtitle: The NoSQL Database for Cloud and Desktop Computing
+isbn13: 9781430230519
+price: $39.99
+image: https://itbook.store/img/books/9781430230519.png
+url: https://itbook.store/books/9781430230519
+
+title: Oracle Database 11g Performance Tuning Recipes
+subtitle: A Problem-Solution Approach
+isbn13: 9781430236627
+price: $59.99
+image: https://itbook.store/img/books/9781430236627.png
+url: https://itbook.store/books/9781430236627
+
+title: Pro SQL Server 2012 Relational Database Design and Implementation
+subtitle: 
+isbn13: 9781430236955
+price: $55.25
+image: https://itbook.store/img/books/9781430236955.png
+url: https://itbook.store/books/9781430236955
+
+title: Expert Oracle and Java Security
+subtitle: Programming Secure Oracle Database Applications With Java
+isbn13: 9781430238317
+price: $50.49
+image: https://itbook.store/img/books/9781430238317.png
+url: https://itbook.store/books/9781430238317
+
+title: Beginning Database Design, 2nd Edition
+subtitle: From Novice to Professional
+isbn13: 9781430242093
+price: $26.81
+image: https://itbook.store/img/books/9781430242093.png
+url: https://itbook.store/books/9781430242093
+
+title: Beginning C# 5.0 Databases, 2nd Edition
+subtitle: 
+isbn13: 9781430242604
+price: $45.27
+image: https://itbook.store/img/books/9781430242604.png
+url: https://itbook.store/books/9781430242604
+
+title: Beginning ASP.NET 4.5 Databases, 3rd Edition
+subtitle: 
+isbn13: 9781430243809
+price: $44.99
+image: https://itbook.store/img/books/9781430243809.png
+url: https://itbook.store/books/9781430243809
+
+title: Pro SQL Database for Windows Azure, 2nd Edition
+subtitle: SQL Server in the Cloud
+isbn13: 9781430243953
+price: $47.21
+image: https://itbook.store/img/books/9781430243953.png
+url: https://itbook.store/books/9781430243953
+
+title: RMAN Recipes for Oracle Database 12c, 2nd Edition
+subtitle: A Problem-Solution Approach
+isbn13: 9781430248361
+price: $59.99
+image: https://itbook.store/img/books/9781430248361.png
+url: https://itbook.store/books/9781430248361
+
+title: Pro Oracle Database 12c Administration, 2nd Edition
+subtitle: 
+isbn13: 9781430257288
+price: $41.53
+image: https://itbook.store/img/books/9781430257288.png
+url: https://itbook.store/books/9781430257288
+
+title: Practical PHP and MySQL Website Databases
+subtitle: A Simplified Approach
+isbn13: 9781430260769
+price: $42.49
+image: https://itbook.store/img/books/9781430260769.png
+url: https://itbook.store/books/9781430260769
+
+title: Oracle Database 12c Performance Tuning Recipes
+subtitle: A Problem-Solution Approach
+isbn13: 9781430261872
+price: $49.45
+image: https://itbook.store/img/books/9781430261872.png
+url: https://itbook.store/books/9781430261872
+
+title: Protecting Oracle Database 12c
+subtitle: 
+isbn13: 9781430262114
+price: $52.66
+image: https://itbook.store/img/books/9781430262114.png
+url: https://itbook.store/books/9781430262114
+
+title: Practical Oracle Database Appliance
+subtitle: 
+isbn13: 9781430262657
+price: $49.99
+image: https://itbook.store/img/books/9781430262657.png
+url: https://itbook.store/books/9781430262657
+
+title: Expert Oracle Database Architecture, 3rd Edition
+subtitle: 
+isbn13: 9781430262985
+price: $43.19
+image: https://itbook.store/img/books/9781430262985.png
+url: https://itbook.store/books/9781430262985
+
+title: Beginning Oracle SQL, 3rd Edition
+subtitle: For Oracle Database 12c
+isbn13: 9781430265566
+price: $27.02
+image: https://itbook.store/img/books/9781430265566.png
+url: https://itbook.store/books/9781430265566
+
+title: C# Database Basics
+subtitle: Moving from Visual Basic and VBA to C#
+isbn13: 9781449309985
+price: $16.99
+image: https://itbook.store/img/books/9781449309985.png
+url: https://itbook.store/books/9781449309985
+
+title: MongoDB and Python
+subtitle: Patterns and processes for the popular document-oriented database
+isbn13: 9781449310370
+price: $14.99
+image: https://itbook.store/img/books/9781449310370.png
+url: https://itbook.store/books/9781449310370
+
+title: Oracle PL/SQL Programming, 6th Edition
+subtitle: Covers Versions Through Oracle Database 12c
+isbn13: 9781449324452
+price: $43.75
+image: https://itbook.store/img/books/9781449324452.png
+url: https://itbook.store/books/9781449324452
+
+title: PostgreSQL: Up and Running
+subtitle: A Practical Guide to the Advanced Open Source Database
+isbn13: 9781449326333
+price: $14.99
+image: https://itbook.store/img/books/9781449326333.png
+url: https://itbook.store/books/9781449326333
+
+title: Developing with Couchbase Server
+subtitle: Building Scalable, Flexible Database-Based Applications
+isbn13: 9781449331160
+price: $19.99
+image: https://itbook.store/img/books/9781449331160.png
+url: https://itbook.store/books/9781449331160
+
+title: eXist
+subtitle: A NoSQL Document Database and Application Platform
+isbn13: 9781449337100
+price: $35.00
+image: https://itbook.store/img/books/9781449337100.png
+url: https://itbook.store/books/9781449337100
+
+title: MongoDB Applied Design Patterns
+subtitle: Practical Use Cases with the Leading NoSQL Database
+isbn13: 9781449340049
+price: $29.99
+image: https://itbook.store/img/books/9781449340049.png
+url: https://itbook.store/books/9781449340049
+
+title: Oracle Essentials, 5th Edition
+subtitle: Oracle Database 12c
+isbn13: 9781449343033
+price: $34.90
+image: https://itbook.store/img/books/9781449343033.png
+url: https://itbook.store/books/9781449343033
+
+title: Graph Databases
+subtitle: 
+isbn13: 9781449356262
+price: $15.99
+image: https://itbook.store/img/books/9781449356262.png
+url: https://itbook.store/books/9781449356262
+
+title: Apache Sqoop Cookbook
+subtitle: Unlocking Hadoop for Your Relational Database
+isbn13: 9781449364625
+price: $12.64
+image: https://itbook.store/img/books/9781449364625.png
+url: https://itbook.store/books/9781449364625
+
+title: PostgreSQL: Up and Running, 2nd Edition
+subtitle: A Practical Guide to the Advanced Open Source Database
+isbn13: 9781449373191
+price: $24.43
+image: https://itbook.store/img/books/9781449373191.png
+url: https://itbook.store/books/9781449373191
+
+title: MySQL Cookbook, 3rd Edition
+subtitle: Solutions for Database Developers and Administrators
+isbn13: 9781449374020
+price: $48.05
+image: https://itbook.store/img/books/9781449374020.png
+url: https://itbook.store/books/9781449374020
+
+title: Beginning Oracle Database 12c Administration, 2nd Edition
+subtitle: From Novice to Professional
+isbn13: 9781484201947
+price: $42.49
+image: https://itbook.store/img/books/9781484201947.png
+url: https://itbook.store/books/9781484201947
+
+title: Beginning Oracle Application Express 5, 3rd Edition
+subtitle: Your ticket to easy and robust web-application development using Oracle's powerful toolset for power-users, programmers, and database administrators
+isbn13: 9781484204672
+price: $49.99
+image: https://itbook.store/img/books/9781484204672.png
+url: https://itbook.store/books/9781484204672
+
+title: Pro PowerShell for Database Developers
+subtitle: 
+isbn13: 9781484205426
+price: $44.41
+image: https://itbook.store/img/books/9781484205426.png
+url: https://itbook.store/books/9781484205426
+
+title: Oracle Database Transactions and Locking Revealed
+subtitle: 
+isbn13: 9781484207611
+price: $27.92
+image: https://itbook.store/img/books/9781484207611.png
+url: https://itbook.store/books/9781484207611
+
+title: Database Systems
+subtitle: A Pragmatic Approach
+isbn13: 9781484208786
+price: $57.03
+image: https://itbook.store/img/books/9781484208786.png
+url: https://itbook.store/books/9781484208786
+
+title: Oracle RMAN Database Duplication
+subtitle: 
+isbn13: 9781484211137
+price: $29.99
+image: https://itbook.store/img/books/9781484211137.png
+url: https://itbook.store/books/9781484211137
+
+title: Pro Couchbase Server, 2nd Edition
+subtitle: High Performance and Scalable Document Databases
+isbn13: 9781484211861
+price: $49.99
+image: https://itbook.store/img/books/9781484211861.png
+url: https://itbook.store/books/9781484211861
+
+title: Introducing SQLite for Mobile Developers
+subtitle: Enabling Database Functionality for Android and iPhone
+isbn13: 9781484217658
+price: $29.15
+image: https://itbook.store/img/books/9781484217658.png
+url: https://itbook.store/books/9781484217658
+
+title: Relational Database Programming
+subtitle: A Set-Oriented Approach
+isbn13: 9781484220795
+price: $34.99
+image: https://itbook.store/img/books/9781484220795.png
+url: https://itbook.store/books/9781484220795
+
+title: Expert Apache Cassandra Administration
+subtitle: Install, configure, optimize, and secure Apache Cassandra databases
+isbn13: 9781484231258
+price: $35.71
+image: https://itbook.store/img/books/9781484231258.png
+url: https://itbook.store/books/9781484231258
+
+title: Microsoft Azure Cosmos DB Revealed
+subtitle: A Multi-Modal Database Designed for the Cloud
+isbn13: 9781484233504
+price: $20.72
+image: https://itbook.store/img/books/9781484233504.png
+url: https://itbook.store/books/9781484233504
+
+title: Oracle SQL Revealed
+subtitle: Executing Business Logic in the Database Engine
+isbn13: 9781484233719
+price: $28.50
+image: https://itbook.store/img/books/9781484233719.png
+url: https://itbook.store/books/9781484233719
+
+title: Beginning Entity Framework Core 2.0
+subtitle: Database Access from .NET
+isbn13: 9781484233740
+price: $39.99
+image: https://itbook.store/img/books/9781484233740.png
+url: https://itbook.store/books/9781484233740
+
+title: Beginning PostgreSQL on the Cloud
+subtitle: Simplifying Database as a Service on Cloud Platforms
+isbn13: 9781484234464
+price: $37.23
+image: https://itbook.store/img/books/9781484234464.png
+url: https://itbook.store/books/9781484234464
+
+title: Time Series Databases
+subtitle: New Ways to Store and Access Data
+isbn13: 9781491914724
+price: $22.25
+image: https://itbook.store/img/books/9781491914724.png
+url: https://itbook.store/books/9781491914724
+
+title: The New Relational Database Dictionary
+subtitle: Terms, Concepts, and Examples
+isbn13: 9781491951736
+price: $24.54
+image: https://itbook.store/img/books/9781491951736.png
+url: https://itbook.store/books/9781491951736
+
+title: PostgreSQL: Up and Running, 3rd Edition
+subtitle: A Practical Guide to the Advanced Open Source Database
+isbn13: 9781491963418
+price: $33.99
+image: https://itbook.store/img/books/9781491963418.png
+url: https://itbook.store/books/9781491963418
+
+title: Exam Ref 70-765 Provisioning SQL Databases
+subtitle: 
+isbn13: 9781509303816
+price: $31.99
+image: https://itbook.store/img/books/9781509303816.png
+url: https://itbook.store/books/9781509303816
+
+title: Exam Ref 70-764 Administering a SQL Database Infrastructure
+subtitle: 
+isbn13: 9781509303830
+price: $27.23
+image: https://itbook.store/img/books/9781509303830.png
+url: https://itbook.store/books/9781509303830
+
+title: Exam Ref 70-762 Developing SQL Databases
+subtitle: 
+isbn13: 9781509304912
+price: $31.99
+image: https://itbook.store/img/books/9781509304912.png
+url: https://itbook.store/books/9781509304912
+
+title: Beginning Databases with PostgreSQL, 2nd Edition
+subtitle: From Novice to Professional
+isbn13: 9781590594780
+price: $34.99
+image: https://itbook.store/img/books/9781590594780.png
+url: https://itbook.store/books/9781590594780
+
+title: Beginning ASP.NET 2.0 Databases, 2nd Edition
+subtitle: From Novice to Professional
+isbn13: 9781590595770
+price: $17.99
+image: https://itbook.store/img/books/9781590595770.png
+url: https://itbook.store/books/9781590595770
+
+title: Date on Database
+subtitle: Writings 2000-2006
+isbn13: 9781590597460
+price: $119.70
+image: https://itbook.store/img/books/9781590597460.png
+url: https://itbook.store/books/9781590597460
+
+title: Pro Oracle Spatial for Oracle Database 11g
+subtitle: 
+isbn13: 9781590598993
+price: $61.90
+image: https://itbook.store/img/books/9781590598993.png
+url: https://itbook.store/books/9781590598993
+
+title: Oracle Database 11g
+subtitle: New Features for DBAs and Developers
+isbn13: 9781590599105
+price: $30.54
+image: https://itbook.store/img/books/9781590599105.png
+url: https://itbook.store/books/9781590599105
+
+title: Getting Started with SQL Server 2014 Administration
+subtitle: Optimize your database server to be fast, efficient, and highly secure using the brand new features of SQL Server 2014
+isbn13: 9781782172413
+price: $16.99
+image: https://itbook.store/img/books/9781782172413.png
+url: https://itbook.store/books/9781782172413
+
+title: SQL Server 2014 Development Essentials
+subtitle: Design, implement, and deliver a successful database solution with Microsoft SQL Server 2014
+isbn13: 9781782172550
+price: $26.99
+image: https://itbook.store/img/books/9781782172550.png
+url: https://itbook.store/books/9781782172550
+
+title: PostgreSQL for Data Architects
+subtitle: Discover how to design, develop, and maintain your database application effectively with PostgreSQL
+isbn13: 9781783288601
+price: $39.99
+image: https://itbook.store/img/books/9781783288601.png
+url: https://itbook.store/books/9781783288601
+
+title: Learning PostgreSQL
+subtitle: Create, develop and manage relational databases in real world applications using PostgreSQL
+isbn13: 9781783989188
+price: $43.99
+image: https://itbook.store/img/books/9781783989188.png
+url: https://itbook.store/books/9781783989188
+
+title: PostGIS Essentials
+subtitle: Learn how to build powerful spatial database solutions with PostGIS quickly and efficiently
+isbn13: 9781784395292
+price: $28.48
+image: https://itbook.store/img/books/9781784395292.png
+url: https://itbook.store/books/9781784395292
+
+title: MongoDB for Java Developers
+subtitle: Design, build, and deliver efficient Java applications using the most advanced NoSQL database
+isbn13: 9781785280276
+price: $27.99
+image: https://itbook.store/img/books/9781785280276.png
+url: https://itbook.store/books/9781785280276
+
+title: Building Dynamic Web 2.0 Websites with Ruby on Rails
+subtitle: Create database-driven dynamic websites with this open-source web application framework
+isbn13: 9781847193414
+price: $34.99
+image: https://itbook.store/img/books/9781847193414.png
+url: https://itbook.store/books/9781847193414
+
+title: NHibernate 2
+subtitle: Rapidly retrieve data from your database into .NET objects
+isbn13: 9781847198907
+price: $26.99
+image: https://itbook.store/img/books/9781847198907.png
+url: https://itbook.store/books/9781847198907
+
+title: High Availability MySQL Cookbook
+subtitle: Over 50 simple but incredibly effective recipes focusing on different methods of achieving high availability for MySQL databases
+isbn13: 9781847199942
+price: $26.99
+image: https://itbook.store/img/books/9781847199942.png
+url: https://itbook.store/books/9781847199942
+
+title: PostgreSQL 9 Admin Cookbook
+subtitle: Over 80 recipes to help you run an efficient PostgreSQL 9.0 database
+isbn13: 9781849510288
+price: $29.99
+image: https://itbook.store/img/books/9781849510288.png
+url: https://itbook.store/books/9781849510288
+
+title: Webmin Administrator's Cookbook
+subtitle: Over 100 recipes to leverage the features of Webmin and master the art of administering your web or database servers
+isbn13: 9781849515849
+price: $26.99
+image: https://itbook.store/img/books/9781849515849.png
+url: https://itbook.store/books/9781849515849
+
+title: PostgreSQL Server Programming
+subtitle: Extend PostgreSQL and integrate the database layer into your development framework
+isbn13: 9781849516983
+price: $29.99
+image: https://itbook.store/img/books/9781849516983.png
+url: https://itbook.store/books/9781849516983
+
+title: Learning Neo4j
+subtitle: Run blazingly fast queries on complex graph datasets with the power of the Neo4j graph database
+isbn13: 9781849517164
+price: $29.99
+image: https://itbook.store/img/books/9781849517164.png
+url: https://itbook.store/books/9781849517164
+
+title: Managing Multimedia and Unstructured Data in the Oracle Database
+subtitle: A revolutionary approach to understanding, managing, and delivering digital objects, assets, and all types of data
+isbn13: 9781849686921
+price: $35.99
+image: https://itbook.store/img/books/9781849686921.png
+url: https://itbook.store/books/9781849686921
+
+title: Creating your MySQL Database
+subtitle: Practical Design Tips and Techniques
+isbn13: 9781904811305
+price: $11.99
+image: https://itbook.store/img/books/9781904811305.png
+url: https://itbook.store/books/9781904811305
+
+title: SQL Antipatterns
+subtitle: Avoiding the Pitfalls of Database Programming
+isbn13: 9781934356555
+price: $26.64
+image: https://itbook.store/img/books/9781934356555.png
+url: https://itbook.store/books/9781934356555
+
+title: SQL: A Beginner's Guide, 3rd Edition
+subtitle: 
+isbn13: 9780071548649
+price: $15.00
+image: https://itbook.store/img/books/9780071548649.png
+url: https://itbook.store/books/9780071548649
+
+title: MySQL, 4th Edition
+subtitle: 
+isbn13: 9780132800754
+price: $0.00
+image: https://itbook.store/img/books/9780132800754.png
+url: https://itbook.store/books/9780132800754
+
+title: Node.js, MongoDB and Angular Web Development, 2nd Edition
+subtitle: The definitive guide to using the MEAN stack to build web applications
+isbn13: 9780134655536
+price: $36.99
+image: https://itbook.store/img/books/9780134655536.png
+url: https://itbook.store/books/9780134655536
+
+title: SQL Queries for Mere Mortals, 4th Edition
+subtitle: A Hands-On Guide to Data Manipulation in SQL
+isbn13: 9780134858333
+price: $30.56
+image: https://itbook.store/img/books/9780134858333.png
+url: https://itbook.store/books/9780134858333
+
+title: The Java EE 6 Tutorial, 4th Edition
+subtitle: Basic Concepts
+isbn13: 9780137081851
+price: $21.79
+image: https://itbook.store/img/books/9780137081851.png
+url: https://itbook.store/books/9780137081851
+
+title: PostgreSQL: Introduction and Concepts
+subtitle: 
+isbn13: 9780201703313
+price: $11.38
+image: https://itbook.store/img/books/9780201703313.png
+url: https://itbook.store/books/9780201703313
+
+title: A Developer's Guide to Data Modeling for SQL Server
+subtitle: Covering SQL Server 2005 and 2008
+isbn13: 9780321497642
+price: $4.18
+image: https://itbook.store/img/books/9780321497642.png
+url: https://itbook.store/books/9780321497642
+
+title: LINQ to Objects Using C# 4.0
+subtitle: Using and Extending LINQ to Objects and Parallel LINQ (PLINQ)
+isbn13: 9780321637000
+price: $38.67
+image: https://itbook.store/img/books/9780321637000.png
+url: https://itbook.store/books/9780321637000
+
+title: Learning iCloud Data Management
+subtitle: A Hands-On Guide to Structuring Data for iOS and OS X
+isbn13: 9780321889119
+price: $31.99
+image: https://itbook.store/img/books/9780321889119.png
+url: https://itbook.store/books/9780321889119
+
+title: Access 2007 VBA Bible
+subtitle: For Data-Centric Microsoft Office Applications
+isbn13: 9780470047026
+price: $59.49
+image: https://itbook.store/img/books/9780470047026.png
+url: https://itbook.store/books/9780470047026
+
+title: PHP and MySQL For Dummies, 3rd Edition
+subtitle: 
+isbn13: 9780470096000
+price: $23.75
+image: https://itbook.store/img/books/9780470096000.png
+url: https://itbook.store/books/9780470096000
+
+title: Data Analysis Using SQL and Excel
+subtitle: 
+isbn13: 9780470099513
+price: $57.74
+image: https://itbook.store/img/books/9780470099513.png
+url: https://itbook.store/books/9780470099513
+
+title: Beginning XML, 4th Edition
+subtitle: 
+isbn13: 9780470114872
+price: $6.99
+image: https://itbook.store/img/books/9780470114872.png
+url: https://itbook.store/books/9780470114872
+
+title: HTML, XHTML, and CSS All-in-One Desk Reference For Dummies
+subtitle: 
+isbn13: 9780470186275
+price: $52.17
+image: https://itbook.store/img/books/9780470186275.png
+url: https://itbook.store/books/9780470186275
+
+title: Linux Command Line and Shell Scripting Bible
+subtitle: 
+isbn13: 9780470251287
+price: $67.21
+image: https://itbook.store/img/books/9780470251287.png
+url: https://itbook.store/books/9780470251287
+
+title: Beginning Microsoft SQL Server 2008 Programming
+subtitle: 
+isbn13: 9780470257012
+price: $36.09
+image: https://itbook.store/img/books/9780470257012.png
+url: https://itbook.store/books/9780470257012
+
+title: Professional Microsoft SQL Server 2008 Programming
+subtitle: 
+isbn13: 9780470257029
+price: $32.99
+image: https://itbook.store/img/books/9780470257029.png
+url: https://itbook.store/books/9780470257029
+
+title: Beginning T-SQL with Microsoft SQL Server 2005 and 2008
+subtitle: 
+isbn13: 9780470257036
+price: $25.99
+image: https://itbook.store/img/books/9780470257036.png
+url: https://itbook.store/books/9780470257036
+
+title: Oracle 11g For Dummies
+subtitle: 
+isbn13: 9780470277652
+price: $18.76
+image: https://itbook.store/img/books/9780470277652.png
+url: https://itbook.store/books/9780470277652
+
+title: Adobe Dreamweaver CS4 Bible
+subtitle: 
+isbn13: 9780470382523
+price: $46.76
+image: https://itbook.store/img/books/9780470382523.png
+url: https://itbook.store/books/9780470382523
+
+title: PHP 6 and MySQL 6 Bible
+subtitle: 
+isbn13: 9780470384503
+price: $57.53
+image: https://itbook.store/img/books/9780470384503.png
+url: https://itbook.store/books/9780470384503
+
+title: Professional ASP.NET MVC 1.0
+subtitle: 
+isbn13: 9780470384619
+price: $19.98
+image: https://itbook.store/img/books/9780470384619.png
+url: https://itbook.store/books/9780470384619
+
+title: Leveraging Drupal
+subtitle: Getting Your Site Done Right
+isbn13: 9780470410875
+price: $44.18
+image: https://itbook.store/img/books/9780470410875.png
+url: https://itbook.store/books/9780470410875
+
+title: Developing Web Applications with Apache, MySQL, memcached, and Perl
+subtitle: 
+isbn13: 9780470414644
+price: $12.19
+image: https://itbook.store/img/books/9780470414644.png
+url: https://itbook.store/books/9780470414644
+
+title: MySQL Administrator's Bible
+subtitle: 
+isbn13: 9780470416914
+price: $39.51
+image: https://itbook.store/img/books/9780470416914.png
+url: https://itbook.store/books/9780470416914
+
+title: FileMaker Pro 10 Bible
+subtitle: 
+isbn13: 9780470429006
+price: $20.00
+image: https://itbook.store/img/books/9780470429006.png
+url: https://itbook.store/books/9780470429006
+
+title: Beginning Microsoft SQL Server 2008 Administration
+subtitle: 
+isbn13: 9780470440919
+price: $22.04
+image: https://itbook.store/img/books/9780470440919.png
+url: https://itbook.store/books/9780470440919
+
+title: Microsoft SQL Server 2008 Administration with Windows PowerShell
+subtitle: 
+isbn13: 9780470477281
+price: $51.08
+image: https://itbook.store/img/books/9780470477281.png
+url: https://itbook.store/books/9780470477281
+
+title: Access 2010 For Dummies
+subtitle: 
+isbn13: 9780470497470
+price: $16.45
+image: https://itbook.store/img/books/9780470497470.png
+url: https://itbook.store/books/9780470497470
+
+title: Beginning Visual C# 2010
+subtitle: 
+isbn13: 9780470502266
+price: $26.15
+image: https://itbook.store/img/books/9780470502266.png
+url: https://itbook.store/books/9780470502266
+
+title: PHP and MySQL For Dummies, 4th Edition
+subtitle: 
+isbn13: 9780470527580
+price: $13.04
+image: https://itbook.store/img/books/9780470527580.png
+url: https://itbook.store/books/9780470527580
+
+title: SQL For Dummies, 7th Edition
+subtitle: 
+isbn13: 9780470557419
+price: $23.95
+image: https://itbook.store/img/books/9780470557419.png
+url: https://itbook.store/books/9780470557419
+
+title: Access 2010 Programmer's Reference
+subtitle: 
+isbn13: 9780470591666
+price: $39.50
+image: https://itbook.store/img/books/9780470591666.png
+url: https://itbook.store/books/9780470591666
+
+title: Pentaho Kettle Solutions
+subtitle: Building Open Source ETL Solutions with Pentaho Data Integration
+isbn13: 9780470635179
+price: $28.26
+image: https://itbook.store/img/books/9780470635179.png
+url: https://itbook.store/books/9780470635179
+
+title: SQL All-in-One For Dummies, 2nd Edition
+subtitle: 
+isbn13: 9780470929964
+price: $15.83
+image: https://itbook.store/img/books/9780470929964.png
+url: https://itbook.store/books/9780470929964
+
+title: Professional NoSQL
+subtitle: 
+isbn13: 9780470942246
+price: $10.99
+image: https://itbook.store/img/books/9780470942246.png
+url: https://itbook.store/books/9780470942246
+
+title: MySQL Enterprise Solutions
+subtitle: 
+isbn13: 9780471269229
+price: $45.56
+image: https://itbook.store/img/books/9780471269229.png
+url: https://itbook.store/books/9780471269229
+
+title: Learning Oracle PL/SQL
+subtitle: 
+isbn13: 9780596001803
+price: $30.79
+image: https://itbook.store/img/books/9780596001803.png
+url: https://itbook.store/books/9780596001803
+
+title: Oracle RMAN Pocket Reference
+subtitle: 
+isbn13: 9780596002336
+price: $7.99
+image: https://itbook.store/img/books/9780596002336.png
+url: https://itbook.store/books/9780596002336
+
+title: Oracle SQL Tuning Pocket Reference
+subtitle: 
+isbn13: 9780596002688
+price: $3.80
+image: https://itbook.store/img/books/9780596002688.png
+url: https://itbook.store/books/9780596002688
+
+title: Learning PHP 5
+subtitle: A Pain-Free Introduction to Building Interactive Web Sites
+isbn13: 9780596005603
+price: $6.98
+image: https://itbook.store/img/books/9780596005603.png
+url: https://itbook.store/books/9780596005603
+
+title: Head First PHP & MySQL
+subtitle: 
+isbn13: 9780596006303
+price: $34.10
+image: https://itbook.store/img/books/9780596006303.png
+url: https://itbook.store/books/9780596006303
+
+title: Learning MySQL
+subtitle: Get a Handle on Your Data
+isbn13: 9780596008642
+price: $32.31
+image: https://itbook.store/img/books/9780596008642.png
+url: https://itbook.store/books/9780596008642
+
+title: The Art of SQL
+subtitle: 
+isbn13: 9780596008949
+price: $35.43
+image: https://itbook.store/img/books/9780596008949.png
+url: https://itbook.store/books/9780596008949
+
+title: Toad Pocket Reference for Oracle, 2nd Edition
+subtitle: 
+isbn13: 9780596009717
+price: $7.96
+image: https://itbook.store/img/books/9780596009717.png
+url: https://itbook.store/books/9780596009717
+
+title: CouchDB: The Definitive Guide
+subtitle: Time to Relax
+isbn13: 9780596155896
+price: $25.32
+image: https://itbook.store/img/books/9780596155896.png
+url: https://itbook.store/books/9780596155896
+
+title: Programming Python, 4th Edition
+subtitle: Powerful Object-Oriented Programming
+isbn13: 9780596158101
+price: $45.73
+image: https://itbook.store/img/books/9780596158101.png
+url: https://itbook.store/books/9780596158101
+
+title: Programming C# 4.0, 6th Edition
+subtitle: Building Windows, Web, and RIA Applications for the .NET 4.0 Framework
+isbn13: 9780596159832
+price: $31.89
+image: https://itbook.store/img/books/9780596159832.png
+url: https://itbook.store/books/9780596159832
+
+title: Advanced Rails
+subtitle: 
+isbn13: 9780596510329
+price: $23.63
+image: https://itbook.store/img/books/9780596510329.png
+url: https://itbook.store/books/9780596510329
+
+title: Oracle PL/SQL Language Pocket Reference, 4th Edition
+subtitle: A Guide to Oracle's PL/SQL Language Fundamentals
+isbn13: 9780596514044
+price: $7.74
+image: https://itbook.store/img/books/9780596514044.png
+url: https://itbook.store/books/9780596514044
+
+title: Refactoring SQL Applications
+subtitle: 
+isbn13: 9780596514976
+price: $26.93
+image: https://itbook.store/img/books/9780596514976.png
+url: https://itbook.store/books/9780596514976
+
+title: Enterprise Rails
+subtitle: 
+isbn13: 9780596515201
+price: $22.45
+image: https://itbook.store/img/books/9780596515201.png
+url: https://itbook.store/books/9780596515201
+
+title: Head First Rails
+subtitle: A learner's companion to Ruby on Rails
+isbn13: 9780596515775
+price: $14.81
+image: https://itbook.store/img/books/9780596515775.png
+url: https://itbook.store/books/9780596515775
+
+title: PHP & MySQL: The Missing Manual
+subtitle: 
+isbn13: 9780596515867
+price: $7.23
+image: https://itbook.store/img/books/9780596515867.png
+url: https://itbook.store/books/9780596515867
+
+title: Learning SQL, 2nd Edition
+subtitle: Master SQL Fundamentals
+isbn13: 9780596520830
+price: $20.64
+image: https://itbook.store/img/books/9780596520830.png
+url: https://itbook.store/books/9780596520830
+
+title: Using SQLite
+subtitle: Small. Fast. Reliable. Choose Any Three.
+isbn13: 9780596521189
+price: $31.99
+image: https://itbook.store/img/books/9780596521189.png
+url: https://itbook.store/books/9780596521189
+
+title: SQL and Relational Theory
+subtitle: How to Write Accurate SQL Code
+isbn13: 9780596523060
+price: $31.99
+image: https://itbook.store/img/books/9780596523060.png
+url: https://itbook.store/books/9780596523060
+
+title: Head First SQL
+subtitle: Your Brain on SQL - A Learner's Guide
+isbn13: 9780596526849
+price: $32.75
+image: https://itbook.store/img/books/9780596526849.png
+url: https://itbook.store/books/9780596526849
+
+title: MySQL Cookbook, 2nd Edition
+subtitle: Solutions & Examples for Database Developers and DBAs
+isbn13: 9780596527082
+price: $55.21
+image: https://itbook.store/img/books/9780596527082.png
+url: https://itbook.store/books/9780596527082
+
+title: Access 2007: The Missing Manual
+subtitle: 
+isbn13: 9780596527600
+price: $22.23
+image: https://itbook.store/img/books/9780596527600.png
+url: https://itbook.store/books/9780596527600
+
+title: PHP: The Good Parts
+subtitle: Delivering the Best of PHP
+isbn13: 9780596804374
+price: $22.98
+image: https://itbook.store/img/books/9780596804374.png
+url: https://itbook.store/books/9780596804374
+
+title: Learning Flex 4
+subtitle: Getting Up to Speed with Rich Internet Application Design and Development
+isbn13: 9780596805630
+price: $17.60
+image: https://itbook.store/img/books/9780596805630.png
+url: https://itbook.store/books/9780596805630
+
+title: MySQL High Availability
+subtitle: Tools for Building Robust Data Centers
+isbn13: 9780596807306
+price: $17.49
+image: https://itbook.store/img/books/9780596807306.png
+url: https://itbook.store/books/9780596807306
+
+title: PostgreSQL, 2nd Edition
+subtitle: 
+isbn13: 9780672327568
+price: $2.99
+image: https://itbook.store/img/books/9780672327568.png
+url: https://itbook.store/books/9780672327568
+
+title: PHP and MySQL Web Development, 4th Edition
+subtitle: 
+isbn13: 9780672329166
+price: $19.24
+image: https://itbook.store/img/books/9780672329166.png
+url: https://itbook.store/books/9780672329166
+
+title: SQL Server 2005 Management and Administration
+subtitle: 
+isbn13: 9780672329562
+price: $35.99
+image: https://itbook.store/img/books/9780672329562.png
+url: https://itbook.store/books/9780672329562
+
+title: LINQ Unleashed: for C#
+subtitle: 
+isbn13: 9780672329838
+price: $36.11
+image: https://itbook.store/img/books/9780672329838.png
+url: https://itbook.store/books/9780672329838
+
+title: Microsoft SQL Server 2008 Management and Administration
+subtitle: 
+isbn13: 9780672330445
+price: $8.37
+image: https://itbook.store/img/books/9780672330445.png
+url: https://itbook.store/books/9780672330445
+
+title: Microsoft SQL Server 2008 R2 Unleashed
+subtitle: 
+isbn13: 9780672330568
+price: $22.09
+image: https://itbook.store/img/books/9780672330568.png
+url: https://itbook.store/books/9780672330568
+
+title: Sams Teach Yourself Visual Basic 2010 in 24 Hours
+subtitle: Complete Starter Kit
+isbn13: 9780672331138
+price: $7.99
+image: https://itbook.store/img/books/9780672331138.png
+url: https://itbook.store/books/9780672331138
+
+title: Sams Teach Yourself SQL in 24 Hours, 5th Edition
+subtitle: 
+isbn13: 9780672335419
+price: $13.48
+image: https://itbook.store/img/books/9780672335419.png
+url: https://itbook.store/books/9780672335419
+
+title: Sams Teach Yourself PHP, MySQL and Apache All in One, 5th Edition
+subtitle: 
+isbn13: 9780672335433
+price: $31.99
+image: https://itbook.store/img/books/9780672335433.png
+url: https://itbook.store/books/9780672335433
+
+title: Sams Teach Yourself PHP, MySQL & JavaScript All in One, 6th Edition
+subtitle: 
+isbn13: 9780672337703
+price: $25.07
+image: https://itbook.store/img/books/9780672337703.png
+url: https://itbook.store/books/9780672337703
+
+title: Sams Teach Yourself Microsoft SQL Server T-SQL in 10 Minutes, 2nd Edition
+subtitle: 
+isbn13: 9780672337925
+price: $20.27
+image: https://itbook.store/img/books/9780672337925.png
+url: https://itbook.store/books/9780672337925
+
+title: Microsoft Office Access 2003 Step by Step
+subtitle: 
+isbn13: 9780735615175
+price: $27.99
+image: https://itbook.store/img/books/9780735615175.png
+url: https://itbook.store/books/9780735615175
+
+title: Microsoft Access 2010 Step by Step
+subtitle: 
+isbn13: 9780735626928
+price: $13.26
+image: https://itbook.store/img/books/9780735626928.png
+url: https://itbook.store/books/9780735626928
+
+title: Microsoft Excel 2010 Step by Step
+subtitle: 
+isbn13: 9780735626942
+price: $3.99
+image: https://itbook.store/img/books/9780735626942.png
+url: https://itbook.store/books/9780735626942
+
+title: Microsoft ADO.NET 4 Step by Step
+subtitle: 
+isbn13: 9780735638884
+price: $36.45
+image: https://itbook.store/img/books/9780735638884.png
+url: https://itbook.store/books/9780735638884
+
+title: Programming Microsoft LINQ in Microsoft .NET Framework 4
+subtitle: 
+isbn13: 9780735640573
+price: $20.95
+image: https://itbook.store/img/books/9780735640573.png
+url: https://itbook.store/books/9780735640573
+
+title: Microsoft SQL Server 2012 T-SQL Fundamentals
+subtitle: 
+isbn13: 9780735658141
+price: $37.67
+image: https://itbook.store/img/books/9780735658141.png
+url: https://itbook.store/books/9780735658141
+
+title: Microsoft SQL Server 2012 Analysis Services
+subtitle: The BISM Tabular Model
+isbn13: 9780735658189
+price: $47.99
+image: https://itbook.store/img/books/9780735658189.png
+url: https://itbook.store/books/9780735658189
+
+title: Programming Microsoft SQL Server 2012
+subtitle: 
+isbn13: 9780735658226
+price: $43.21
+image: https://itbook.store/img/books/9780735658226.png
+url: https://itbook.store/books/9780735658226
+
+title: Microsoft SQL Server 2012 High-Performance T-SQL Using Window Functions
+subtitle: 
+isbn13: 9780735658363
+price: $29.99
+image: https://itbook.store/img/books/9780735658363.png
+url: https://itbook.store/books/9780735658363
+
+title: Microsoft SQL Server 2012 Internals
+subtitle: 
+isbn13: 9780735658561
+price: $1.00
+image: https://itbook.store/img/books/9780735658561.png
+url: https://itbook.store/books/9780735658561
+
+title: Microsoft SQL Server 2012 Step by Step
+subtitle: 
+isbn13: 9780735663862
+price: $32.94
+image: https://itbook.store/img/books/9780735663862.png
+url: https://itbook.store/books/9780735663862
+
+title: Introducing Microsoft SQL Server 2012
+subtitle: 
+isbn13: 9780735665156
+price: $19.42
+image: https://itbook.store/img/books/9780735665156.png
+url: https://itbook.store/books/9780735665156
+
+title: Training Kit (Exam 70-462): Administering Microsoft SQL Server 2012 Databases
+subtitle: 
+isbn13: 9780735666078
+price: $50.37
+image: https://itbook.store/img/books/9780735666078.png
+url: https://itbook.store/books/9780735666078
+
+title: Microsoft Access 2013 Step By Step
+subtitle: 
+isbn13: 9780735669086
+price: $23.99
+image: https://itbook.store/img/books/9780735669086.png
+url: https://itbook.store/books/9780735669086
+
+title: Microsoft Access 2013 Plain & Simple
+subtitle: 
+isbn13: 9780735669444
+price: $13.79
+image: https://itbook.store/img/books/9780735669444.png
+url: https://itbook.store/books/9780735669444
+
+title: Microsoft Access 2013 Inside Out
+subtitle: 
+isbn13: 9780735671232
+price: $39.99
+image: https://itbook.store/img/books/9780735671232.png
+url: https://itbook.store/books/9780735671232
+
+title: Microsoft Exchange Server 2013 Inside Out: Mailbox and High Availability
+subtitle: 
+isbn13: 9780735678583
+price: $38.75
+image: https://itbook.store/img/books/9780735678583.png
+url: https://itbook.store/books/9780735678583
+
+title: Optimizing Service Manager
+subtitle: Microsoft System Center
+isbn13: 9780735683129
+price: $0.00
+image: https://itbook.store/img/books/9780735683129.png
+url: https://itbook.store/books/9780735683129
+
+title: XML Programming Bible
+subtitle: 
+isbn13: 9780764538292
+price: $62.50
+image: https://itbook.store/img/books/9780764538292.png
+url: https://itbook.store/books/9780764538292
+
+title: FileMaker Pro 7 Bible
+subtitle: 
+isbn13: 9780764543470
+price: $44.99
+image: https://itbook.store/img/books/9780764543470.png
+url: https://itbook.store/books/9780764543470
+
+title: PHP5 and MySQL Bible
+subtitle: 
+isbn13: 9780764557460
+price: $53.08
+image: https://itbook.store/img/books/9780764557460.png
+url: https://itbook.store/books/9780764557460
+
+title: Dreamweaver 8 For Dummies
+subtitle: 
+isbn13: 9780764596490
+price: $3.72
+image: https://itbook.store/img/books/9780764596490.png
+url: https://itbook.store/books/9780764596490
+
+title: Professional Oracle Programming
+subtitle: 
+isbn13: 9780764598739
+price: $0.00
+image: https://itbook.store/img/books/9780764598739.png
+url: https://itbook.store/books/9780764598739
+
+title: Release It!
+subtitle: Design and Deploy Production-Ready Software
+isbn13: 9780978739218
+price: $27.05
+image: https://itbook.store/img/books/9780978739218.png
+url: https://itbook.store/books/9780978739218
+
+title: Jump Start MySQL
+subtitle: 
+isbn13: 9780992461287
+price: $19.00
+image: https://itbook.store/img/books/9780992461287.png
+url: https://itbook.store/books/9780992461287
+
+title: HTML5 For Dummies
+subtitle: Quick Reference
+isbn13: 9781118012529
+price: $12.50
+image: https://itbook.store/img/books/9781118012529.png
+url: https://itbook.store/books/9781118012529
+
+title: Beginning ASP.NET Web Pages with WebMatrix
+subtitle: 
+isbn13: 9781118050484
+price: $26.33
+image: https://itbook.store/img/books/9781118050484.png
+url: https://itbook.store/books/9781118050484
+
+title: HTML5 Game Development For Dummies
+subtitle: 
+isbn13: 9781118074763
+price: $60.52
+image: https://itbook.store/img/books/9781118074763.png
+url: https://itbook.store/books/9781118074763
+
+title: Professional Microsoft SQL Server 2012 Integration Services
+subtitle: 
+isbn13: 9781118101124
+price: $32.91
+image: https://itbook.store/img/books/9781118101124.png
+url: https://itbook.store/books/9781118101124
+
+title: Beginning Microsoft SQL Server 2012 Programming
+subtitle: 
+isbn13: 9781118102282
+price: $25.52
+image: https://itbook.store/img/books/9781118102282.png
+url: https://itbook.store/books/9781118102282
+
+title: Microsoft SQL Server 2012 Bible
+subtitle: 
+isbn13: 9781118106877
+price: $38.99
+image: https://itbook.store/img/books/9781118106877.png
+url: https://itbook.store/books/9781118106877
+
+title: Adobe Dreamweaver CS6 Digital Classroom
+subtitle: 
+isbn13: 9781118124093
+price: $32.99
+image: https://itbook.store/img/books/9781118124093.png
+url: https://itbook.store/books/9781118124093
+
+title: Enterprise Android
+subtitle: Programming Android Database Applications for the Enterprise
+isbn13: 9781118183496
+price: $41.78
+image: https://itbook.store/img/books/9781118183496.png
+url: https://itbook.store/books/9781118183496
+
+title: PHP, MySQL, JavaScript & HTML5 All-in-One For Dummies
+subtitle: 
+isbn13: 9781118213704
+price: $41.76
+image: https://itbook.store/img/books/9781118213704.png
+url: https://itbook.store/books/9781118213704
+
+title: Beginning Visual C# 2012 Programming
+subtitle: 
+isbn13: 9781118314418
+price: $24.81
+image: https://itbook.store/img/books/9781118314418.png
+url: https://itbook.store/books/9781118314418
+
+title: Java All-in-One For Dummies, 4th Edition
+subtitle: 
+isbn13: 9781118408032
+price: $28.95
+image: https://itbook.store/img/books/9781118408032.png
+url: https://itbook.store/books/9781118408032
+
+title: Beginning ArcGIS for Desktop Development using .NET
+subtitle: 
+isbn13: 9781118442548
+price: $25.99
+image: https://itbook.store/img/books/9781118442548.png
+url: https://itbook.store/books/9781118442548
+
+title: Professional Website Performance
+subtitle: Optimizing the Front-End and Back-End
+isbn13: 9781118487525
+price: $139.30
+image: https://itbook.store/img/books/9781118487525.png
+url: https://itbook.store/books/9781118487525
+
+title: Access 2013 For Dummies
+subtitle: 
+isbn13: 9781118516386
+price: $16.45
+image: https://itbook.store/img/books/9781118516386.png
+url: https://itbook.store/books/9781118516386
+
+title: Professional Access 2013 Programming
+subtitle: 
+isbn13: 9781118530832
+price: $30.10
+image: https://itbook.store/img/books/9781118530832.png
+url: https://itbook.store/books/9781118530832
+
+title: Hands-On Oracle Application Express Security
+subtitle: Building Secure Apex Applications
+isbn13: 9781118686133
+price: $16.99
+image: https://itbook.store/img/books/9781118686133.png
+url: https://itbook.store/books/9781118686133
+
+title: Beginning ASP.NET 4.5.1: in C# and VB
+subtitle: 
+isbn13: 9781118846773
+price: $25.89
+image: https://itbook.store/img/books/9781118846773.png
+url: https://itbook.store/books/9781118846773
+
+title: NoSQL For Dummies
+subtitle: 
+isbn13: 9781118905746
+price: $23.03
+image: https://itbook.store/img/books/9781118905746.png
+url: https://itbook.store/books/9781118905746
+
+title: Excel 2016 For Dummies
+subtitle: 
+isbn13: 9781119077015
+price: $17.76
+image: https://itbook.store/img/books/9781119077015.png
+url: https://itbook.store/books/9781119077015
+
+title: Access 2016 Bible
+subtitle: 
+isbn13: 9781119086543
+price: $28.07
+image: https://itbook.store/img/books/9781119086543.png
+url: https://itbook.store/books/9781119086543
+
+title: Beginning Visual Basic 2015
+subtitle: 
+isbn13: 9781119092117
+price: $21.71
+image: https://itbook.store/img/books/9781119092117.png
+url: https://itbook.store/books/9781119092117
+
+title: Beginning C# 6 Programming with Visual Studio 2015
+subtitle: 
+isbn13: 9781119096689
+price: $26.20
+image: https://itbook.store/img/books/9781119096689.png
+url: https://itbook.store/books/9781119096689
+
+title: Professional Hadoop
+subtitle: 
+isbn13: 9781119267171
+price: $25.43
+image: https://itbook.store/img/books/9781119267171.png
+url: https://itbook.store/books/9781119267171
+
+title: C# 7.0 All-in-One For Dummies
+subtitle: 
+isbn13: 9781119428114
+price: $28.15
+image: https://itbook.store/img/books/9781119428114.png
+url: https://itbook.store/books/9781119428114
+
+title: Beginning C# 7 Programming with Visual Studio 2017
+subtitle: 
+isbn13: 9781119458685
+price: $36.22
+image: https://itbook.store/img/books/9781119458685.png
+url: https://itbook.store/books/9781119458685
+
+title: Web Coding & Development All-in-One For Dummies
+subtitle: 
+isbn13: 9781119473923
+price: $26.33
+image: https://itbook.store/img/books/9781119473923.png
+url: https://itbook.store/books/9781119473923
+
+title: Facebook API Developers Guide
+subtitle: 
+isbn13: 9781430209690
+price: $19.99
+image: https://itbook.store/img/books/9781430209690.png
+url: https://itbook.store/books/9781430209690
+
+title: Linux Recipes for Oracle DBAs
+subtitle: 
+isbn13: 9781430215752
+price: $39.39
+image: https://itbook.store/img/books/9781430215752.png
+url: https://itbook.store/books/9781430215752
+
+title: Pro SQL Server 2008 Analysis Services
+subtitle: 
+isbn13: 9781430219958
+price: $24.04
+image: https://itbook.store/img/books/9781430219958.png
+url: https://itbook.store/books/9781430219958
+
+title: Oracle SQL Recipes
+subtitle: A Problem-Solution Approach
+isbn13: 9781430225096
+price: $37.49
+image: https://itbook.store/img/books/9781430225096.png
+url: https://itbook.store/books/9781430225096
+
+title: Beginning ASP.NET 4 in C# 2010
+subtitle: 
+isbn13: 9781430226086
+price: $9.11
+image: https://itbook.store/img/books/9781430226086.png
+url: https://itbook.store/books/9781430226086
+
+title: Beginning ASP.NET 4 in VB 2010
+subtitle: 
+isbn13: 9781430226116
+price: $39.99
+image: https://itbook.store/img/books/9781430226116.png
+url: https://itbook.store/books/9781430226116
+
+title: DBA Survivor
+subtitle: Become a Rock Star DBA
+isbn13: 9781430227878
+price: $29.99
+image: https://itbook.store/img/books/9781430227878.png
+url: https://itbook.store/books/9781430227878
+
+title: Beginning Hibernate, 2nd Edition
+subtitle: 
+isbn13: 9781430228509
+price: $25.00
+image: https://itbook.store/img/books/9781430228509.png
+url: https://itbook.store/books/9781430228509
+
+title: Pro SQL Server 2008 Policy-Based Management
+subtitle: 
+isbn13: 9781430229100
+price: $34.79
+image: https://itbook.store/img/books/9781430229100.png
+url: https://itbook.store/books/9781430229100
+
+title: PHP Objects, Patterns and Practice, 3rd Edition
+subtitle: 
+isbn13: 9781430229254
+price: $24.99
+image: https://itbook.store/img/books/9781430229254.png
+url: https://itbook.store/books/9781430229254
+
+title: Beginning Oracle Application Express 4
+subtitle: 
+isbn13: 9781430231479
+price: $20.01
+image: https://itbook.store/img/books/9781430231479.png
+url: https://itbook.store/books/9781430231479
+
+title: Pro Drupal 7 for Windows Developers
+subtitle: 
+isbn13: 9781430231530
+price: $24.99
+image: https://itbook.store/img/books/9781430231530.png
+url: https://itbook.store/books/9781430231530
+
+title: Pro Oracle SQL
+subtitle: 
+isbn13: 9781430232285
+price: $39.99
+image: https://itbook.store/img/books/9781430232285.png
+url: https://itbook.store/books/9781430232285
+
+title: PowerPivot for Business Intelligence Using Excel and SharePoint
+subtitle: 
+isbn13: 9781430233800
+price: $18.00
+image: https://itbook.store/img/books/9781430233800.png
+url: https://itbook.store/books/9781430233800
+
+title: Expert Oracle Exadata
+subtitle: 
+isbn13: 9781430233923
+price: $47.32
+image: https://itbook.store/img/books/9781430233923.png
+url: https://itbook.store/books/9781430233923
+
+title: Pro SQL Server 2012 BI Solutions
+subtitle: 
+isbn13: 9781430234883
+price: $44.09
+image: https://itbook.store/img/books/9781430234883.png
+url: https://itbook.store/books/9781430234883
+
+title: Pro Oracle Application Express 4, 2nd Edition
+subtitle: 
+isbn13: 9781430234944
+price: $30.36
+image: https://itbook.store/img/books/9781430234944.png
+url: https://itbook.store/books/9781430234944
+
+title: Oracle Application Express 4 Recipes
+subtitle: 
+isbn13: 9781430235064
+price: $28.99
+image: https://itbook.store/img/books/9781430235064.png
+url: https://itbook.store/books/9781430235064
+
+title: Expert Oracle Application Express
+subtitle: 
+isbn13: 9781430235125
+price: $49.99
+image: https://itbook.store/img/books/9781430235125.png
+url: https://itbook.store/books/9781430235125
+
+title: Learn Excel 2011 for Mac
+subtitle: 
+isbn13: 9781430235217
+price: $19.99
+image: https://itbook.store/img/books/9781430235217.png
+url: https://itbook.store/books/9781430235217
+
+title: Pro PHP Programming
+subtitle: 
+isbn13: 9781430235606
+price: $24.99
+image: https://itbook.store/img/books/9781430235606.png
+url: https://itbook.store/books/9781430235606
+
+title: Expert Oracle GoldenGate
+subtitle: 
+isbn13: 9781430235668
+price: $49.99
+image: https://itbook.store/img/books/9781430235668.png
+url: https://itbook.store/books/9781430235668
+
+title: Pro Access 2010 Development
+subtitle: 
+isbn13: 9781430235781
+price: $18.99
+image: https://itbook.store/img/books/9781430235781.png
+url: https://itbook.store/books/9781430235781
+
+title: Beginning T-SQL 2012, 2nd Edition
+subtitle: 
+isbn13: 9781430237044
+price: $35.10
+image: https://itbook.store/img/books/9781430237044.png
+url: https://itbook.store/books/9781430237044
+
+title: Expert Performance Indexing for SQL Server 2012
+subtitle: 
+isbn13: 9781430237419
+price: $44.67
+image: https://itbook.store/img/books/9781430237419.png
+url: https://itbook.store/books/9781430237419
+
+title: Beginning SQL Server 2012 for Developers, 3rd Edition
+subtitle: 
+isbn13: 9781430237501
+price: $38.80
+image: https://itbook.store/img/books/9781430237501.png
+url: https://itbook.store/books/9781430237501
+
+title: Pro SQL Server 2012 Reporting Services, 3rd Edition
+subtitle: 
+isbn13: 9781430238102
+price: $49.34
+image: https://itbook.store/img/books/9781430238102.png
+url: https://itbook.store/books/9781430238102
+
+title: Pro SQL Server 2012 Administration, 2nd Edition
+subtitle: 
+isbn13: 9781430239154
+price: $30.00
+image: https://itbook.store/img/books/9781430239154.png
+url: https://itbook.store/books/9781430239154
+
+title: Oracle Core
+subtitle: Essential Internals for DBAs and Developers
+isbn13: 9781430239543
+price: $35.82
+image: https://itbook.store/img/books/9781430239543.png
+url: https://itbook.store/books/9781430239543
+
+title: HTML5 and JavaScript Projects
+subtitle: 
+isbn13: 9781430240327
+price: $29.99
+image: https://itbook.store/img/books/9781430240327.png
+url: https://itbook.store/books/9781430240327
+
+title: Pro PHP MVC
+subtitle: 
+isbn13: 9781430241645
+price: $44.93
+image: https://itbook.store/img/books/9781430241645.png
+url: https://itbook.store/books/9781430241645
+
+title: SQL Server 2012 T-SQL Recipes, 3rd Edition
+subtitle: A Problem-Solution Approach
+isbn13: 9781430242000
+price: $52.28
+image: https://itbook.store/img/books/9781430242000.png
+url: https://itbook.store/books/9781430242000
+
+title: Decompiling Android
+subtitle: 
+isbn13: 9781430242482
+price: $43.68
+image: https://itbook.store/img/books/9781430242482.png
+url: https://itbook.store/books/9781430242482
+
+title: Beginning ASP.NET 4.5 in C#
+subtitle: 
+isbn13: 9781430242512
+price: $43.44
+image: https://itbook.store/img/books/9781430242512.png
+url: https://itbook.store/books/9781430242512
+
+title: Beginning ASP.NET 4.5 in VB
+subtitle: 
+isbn13: 9781430243298
+price: $44.99
+image: https://itbook.store/img/books/9781430243298.png
+url: https://itbook.store/books/9781430243298
+
+title: Pro ASP.NET 4.5 in VB, 5th Edition
+subtitle: 
+isbn13: 9781430243533
+price: $45.48
+image: https://itbook.store/img/books/9781430243533.png
+url: https://itbook.store/books/9781430243533
+
+title: Java EE 7 Recipes
+subtitle: A Problem-Solution Approach
+isbn13: 9781430244257
+price: $25.17
+image: https://itbook.store/img/books/9781430244257.png
+url: https://itbook.store/books/9781430244257
+
+title: Pro T-SQL 2012 Programmer's Guide, 3rd Edition
+subtitle: 
+isbn13: 9781430245964
+price: $49.99
+image: https://itbook.store/img/books/9781430245964.png
+url: https://itbook.store/books/9781430245964
+
+title: Beginning JSP, JSF and Tomcat, 2nd Edition
+subtitle: Java Web Development
+isbn13: 9781430246237
+price: $37.23
+image: https://itbook.store/img/books/9781430246237.png
+url: https://itbook.store/books/9781430246237
+
+title: Pro SQL Server 2012 Practices
+subtitle: 
+isbn13: 9781430247708
+price: $46.99
+image: https://itbook.store/img/books/9781430247708.png
+url: https://itbook.store/books/9781430247708
+
+title: SQL Server 2012 Data Integration Recipes
+subtitle: Solutions for Integration Services and Other ETL Tools
+isbn13: 9781430247913
+price: $49.99
+image: https://itbook.store/img/books/9781430247913.png
+url: https://itbook.store/books/9781430247913
+
+title: Oracle Exadata Recipes
+subtitle: A Problem-Solution Approach
+isbn13: 9781430249146
+price: $59.99
+image: https://itbook.store/img/books/9781430249146.png
+url: https://itbook.store/books/9781430249146
+
+title: Beginning C# Object-Oriented Programming, 2nd Edition
+subtitle: 
+isbn13: 9781430249351
+price: $20.85
+image: https://itbook.store/img/books/9781430249351.png
+url: https://itbook.store/books/9781430249351
+
+title: Expert Oracle Enterprise Manager 12c
+subtitle: 
+isbn13: 9781430249382
+price: $59.99
+image: https://itbook.store/img/books/9781430249382.png
+url: https://itbook.store/books/9781430249382
+
+title: Beginning Windows 8 Data Development
+subtitle: Using C# and JavaScript
+isbn13: 9781430249924
+price: $27.12
+image: https://itbook.store/img/books/9781430249924.png
+url: https://itbook.store/books/9781430249924
+
+title: Expert Oracle RAC 12c
+subtitle: 
+isbn13: 9781430250449
+price: $49.99
+image: https://itbook.store/img/books/9781430250449.png
+url: https://itbook.store/books/9781430250449
+
+title: Beginning Oracle Application Express 4.2, 2nd Edition
+subtitle: 
+isbn13: 9781430257349
+price: $34.10
+image: https://itbook.store/img/books/9781430257349.png
+url: https://itbook.store/books/9781430257349
+
+title: Troubleshooting Oracle Performance, 2nd Edition
+subtitle: 
+isbn13: 9781430257585
+price: $47.99
+image: https://itbook.store/img/books/9781430257585.png
+url: https://itbook.store/books/9781430257585
+
+title: Pro SQL Server Internals
+subtitle: 
+isbn13: 9781430259626
+price: $59.99
+image: https://itbook.store/img/books/9781430259626.png
+url: https://itbook.store/books/9781430259626
+
+title: Expert Oracle SQL
+subtitle: Optimization, Deployment, and Statistics
+isbn13: 9781430259770
+price: $54.77
+image: https://itbook.store/img/books/9781430259770.png
+url: https://itbook.store/books/9781430259770
+
+title: PHP Objects, Patterns, and Practice, 4th Edition
+subtitle: 
+isbn13: 9781430260318
+price: $48.64
+image: https://itbook.store/img/books/9781430260318.png
+url: https://itbook.store/books/9781430260318
+
+title: Expert Oracle Exadata, 2nd Edition
+subtitle: 
+isbn13: 9781430262411
+price: $50.80
+image: https://itbook.store/img/books/9781430262411.png
+url: https://itbook.store/books/9781430262411
+
+title: Beginning Haskell
+subtitle: A Project-Based Approach
+isbn13: 9781430262503
+price: $49.99
+image: https://itbook.store/img/books/9781430262503.png
+url: https://itbook.store/books/9781430262503
+
+title: Big Data Application Architecture Q&A
+subtitle: A Problem - Solution Approach
+isbn13: 9781430262923
+price: $44.99
+image: https://itbook.store/img/books/9781430262923.png
+url: https://itbook.store/books/9781430262923
+
+title: Automation through Chef Opscode
+subtitle: A Hands-on Approach to Chef
+isbn13: 9781430262954
+price: $61.18
+image: https://itbook.store/img/books/9781430262954.png
+url: https://itbook.store/books/9781430262954
+
+title: Beginning Java with WebSphere
+subtitle: 
+isbn13: 9781430263012
+price: $55.67
+image: https://itbook.store/img/books/9781430263012.png
+url: https://itbook.store/books/9781430263012
+
+title: Drupal 8 for Absolute Beginners
+subtitle: 
+isbn13: 9781430264668
+price: $32.34
+image: https://itbook.store/img/books/9781430264668.png
+url: https://itbook.store/books/9781430264668
+
+title: Beginning Hibernate, 3rd Edition
+subtitle: 
+isbn13: 9781430265177
+price: $49.99
+image: https://itbook.store/img/books/9781430265177.png
+url: https://itbook.store/books/9781430265177
+
+title: Practical Node.js
+subtitle: Building Real-World Scalable Web Apps
+isbn13: 9781430265955
+price: $48.72
+image: https://itbook.store/img/books/9781430265955.png
+url: https://itbook.store/books/9781430265955
+
+title: Pro Couchbase Server
+subtitle: 
+isbn13: 9781430266136
+price: $43.95
+image: https://itbook.store/img/books/9781430266136.png
+url: https://itbook.store/books/9781430266136
+
+title: Expert Oracle RAC Performance Diagnostics and Tuning
+subtitle: 
+isbn13: 9781430267096
+price: $64.99
+image: https://itbook.store/img/books/9781430267096.png
+url: https://itbook.store/books/9781430267096
+
+title: SQL Server Query Performance Tuning, 4th Edition
+subtitle: 
+isbn13: 9781430267430
+price: $56.33
+image: https://itbook.store/img/books/9781430267430.png
+url: https://itbook.store/books/9781430267430
+
+title: Healthy SQL
+subtitle: A Comprehensive Guide to Healthy SQL Server Performance
+isbn13: 9781430267737
+price: $48.52
+image: https://itbook.store/img/books/9781430267737.png
+url: https://itbook.store/books/9781430267737
+
+title: PHP for Absolute Beginners, 2nd Edition
+subtitle: 
+isbn13: 9781430268154
+price: $33.99
+image: https://itbook.store/img/books/9781430268154.png
+url: https://itbook.store/books/9781430268154
+
+title: Beginning Oracle SQL
+subtitle: 
+isbn13: 9781430271970
+price: $29.99
+image: https://itbook.store/img/books/9781430271970.png
+url: https://itbook.store/books/9781430271970
+
+title: Expert SQL Server 2008 Development
+subtitle: 
+isbn13: 9781430272137
+price: $10.00
+image: https://itbook.store/img/books/9781430272137.png
+url: https://itbook.store/books/9781430272137
+
+title: Writing and Querying MapReduce Views in CouchDB
+subtitle: Tools for Data Analysts
+isbn13: 9781449303129
+price: $16.99
+image: https://itbook.store/img/books/9781449303129.png
+url: https://itbook.store/books/9781449303129
+
+title: Scaling MongoDB
+subtitle: Sharding, Cluster Setup, and Administration
+isbn13: 9781449303211
+price: $16.99
+image: https://itbook.store/img/books/9781449303211.png
+url: https://itbook.store/books/9781449303211
+
+title: 50 Tips and Tricks for MongoDB Developers
+subtitle: Get the Most Out of Your Database
+isbn13: 9781449304614
+price: $16.99
+image: https://itbook.store/img/books/9781449304614.png
+url: https://itbook.store/books/9781449304614
+
+title: Getting Started with GEO, CouchDB, and Node.js
+subtitle: New Open Source Tools for Location Data
+isbn13: 9781449307523
+price: $14.94
+image: https://itbook.store/img/books/9781449307523.png
+url: https://itbook.store/books/9781449307523
+
+title: Getting Started with CouchDB
+subtitle: Extreme Scalability at Your Fingertips
+isbn13: 9781449307554
+price: $12.15
+image: https://itbook.store/img/books/9781449307554.png
+url: https://itbook.store/books/9781449307554
+
+title: Designing for XOOPS
+subtitle: A Designer's Quickstart Guide to Content Management
+isbn13: 9781449308964
+price: $12.99
+image: https://itbook.store/img/books/9781449308964.png
+url: https://itbook.store/books/9781449308964
+
+title: Learning Rails 3
+subtitle: Rails from the Outside In
+isbn13: 9781449309336
+price: $13.27
+image: https://itbook.store/img/books/9781449309336.png
+url: https://itbook.store/books/9781449309336
+
+title: iOS 5 Programming Cookbook
+subtitle: Solutions & Examples for iPhone, iPad, and iPod touch Apps
+isbn13: 9781449311438
+price: $9.49
+image: https://itbook.store/img/books/9781449311438.png
+url: https://itbook.store/books/9781449311438
+
+title: MySQL Troubleshooting
+subtitle: What To Do When Queries Don't Work
+isbn13: 9781449312008
+price: $14.99
+image: https://itbook.store/img/books/9781449312008.png
+url: https://itbook.store/books/9781449312008
+
+title: Programming Entity Framework: Code First
+subtitle: Creating and Configuring Data Models from Your Classes
+isbn13: 9781449312947
+price: $14.99
+image: https://itbook.store/img/books/9781449312947.png
+url: https://itbook.store/books/9781449312947
+
+title: Programming Entity Framework: DbContext
+subtitle: Querying, Changing, and Validating Your Data with Entity Framework
+isbn13: 9781449312961
+price: $14.99
+image: https://itbook.store/img/books/9781449312961.png
+url: https://itbook.store/books/9781449312961
+
+title: MongoDB and PHP
+subtitle: Document-Oriented Data for Web Developers
+isbn13: 9781449314361
+price: $14.99
+image: https://itbook.store/img/books/9781449314361.png
+url: https://itbook.store/books/9781449314361
+
+title: Big Data Glossary
+subtitle: A Guide to the New Generation of Data Tools
+isbn13: 9781449314590
+price: $14.99
+image: https://itbook.store/img/books/9781449314590.png
+url: https://itbook.store/books/9781449314590
+
+title: Learning Java, 4th Edition
+subtitle: 
+isbn13: 9781449319243
+price: $35.99
+image: https://itbook.store/img/books/9781449319243.png
+url: https://itbook.store/books/9781449319243
+
+title: Programming Hive
+subtitle: Data Warehouse and Query Language for Hadoop
+isbn13: 9781449319335
+price: $33.99
+image: https://itbook.store/img/books/9781449319335.png
+url: https://itbook.store/books/9781449319335
+
+title: Active Directory, 5th Edition
+subtitle: Designing, Deploying, and Running Active Directory
+isbn13: 9781449320027
+price: $23.50
+image: https://itbook.store/img/books/9781449320027.png
+url: https://itbook.store/books/9781449320027
+
+title: Programming C# 5.0
+subtitle: Building Windows 8 Metro, Web, and Desktop Applications for the .NET 4.5 Framework
+isbn13: 9781449320416
+price: $39.76
+image: https://itbook.store/img/books/9781449320416.png
+url: https://itbook.store/books/9781449320416
+
+title: Spring Data
+subtitle: Modern Data Access for Enterprise Java
+isbn13: 9781449323950
+price: $33.99
+image: https://itbook.store/img/books/9781449323950.png
+url: https://itbook.store/books/9781449323950
+
+title: PHP & MySQL: The Missing Manual, 2nd Edition
+subtitle: The book that should have been in the box
+isbn13: 9781449325572
+price: $23.92
+image: https://itbook.store/img/books/9781449325572.png
+url: https://itbook.store/books/9781449325572
+
+title: Just Spring Data Access
+subtitle: Covers JDBC, Hibernate, JPA and JDO
+isbn13: 9781449328382
+price: $10.00
+image: https://itbook.store/img/books/9781449328382.png
+url: https://itbook.store/books/9781449328382
+
+title: Opa: Up and Running
+subtitle: Rapid and Secure Web Development
+isbn13: 9781449328856
+price: $15.27
+image: https://itbook.store/img/books/9781449328856.png
+url: https://itbook.store/books/9781449328856
+
+title: Just Hibernate
+subtitle: A Lightweight Introduction to the Hibernate Framework
+isbn13: 9781449334376
+price: $18.95
+image: https://itbook.store/img/books/9781449334376.png
+url: https://itbook.store/books/9781449334376
+
+title: MySQL High Availability, 2nd Edition
+subtitle: Tools for Building Robust Data Centers
+isbn13: 9781449339586
+price: $42.99
+image: https://itbook.store/img/books/9781449339586.png
+url: https://itbook.store/books/9781449339586
+
+title: XML and InDesign
+subtitle: Stylish Structure: Publishing XML with Adobe InDesign
+isbn13: 9781449344160
+price: $16.99
+image: https://itbook.store/img/books/9781449344160.png
+url: https://itbook.store/books/9781449344160
+
+title: MongoDB: The Definitive Guide, 2nd Edition
+subtitle: Powerful and Scalable Data Storage
+isbn13: 9781449344689
+price: $21.13
+image: https://itbook.store/img/books/9781449344689.png
+url: https://itbook.store/books/9781449344689
+
+title: Head First Android Development
+subtitle: 
+isbn13: 9781449362188
+price: $30.80
+image: https://itbook.store/img/books/9781449362188.png
+url: https://itbook.store/books/9781449362188
+
+title: Learning MySQL and MariaDB
+subtitle: Heading in the Right Direction with MySQL and MariaDB
+isbn13: 9781449362904
+price: $42.99
+image: https://itbook.store/img/books/9781449362904.png
+url: https://itbook.store/books/9781449362904
+
+title: Anonymizing Health Data
+subtitle: Case Studies and Methods to Get You Started
+isbn13: 9781449363079
+price: $25.99
+image: https://itbook.store/img/books/9781449363079.png
+url: https://itbook.store/books/9781449363079
+
+title: PHP Cookbook, 3rd Edition
+subtitle: Solutions & Examples for PHP Programmers
+isbn13: 9781449363758
+price: $39.99
+image: https://itbook.store/img/books/9781449363758.png
+url: https://itbook.store/books/9781449363758
+
+title: Clojure Cookbook
+subtitle: Recipes for Functional Programming
+isbn13: 9781449366179
+price: $12.06
+image: https://itbook.store/img/books/9781449366179.png
+url: https://itbook.store/books/9781449366179
+
+title: Learning Web App Development
+subtitle: Build Quickly with Proven JavaScript Techniques
+isbn13: 9781449370190
+price: $16.99
+image: https://itbook.store/img/books/9781449370190.png
+url: https://itbook.store/books/9781449370190
+
+title: Flask Web Development
+subtitle: Developing Web Applications with Python
+isbn13: 9781449372620
+price: $34.68
+image: https://itbook.store/img/books/9781449372620.png
+url: https://itbook.store/books/9781449372620
+
+title: Android Cookbook, 2nd Edition
+subtitle: Problems and Solutions for Android Developers
+isbn13: 9781449374433
+price: $50.94
+image: https://itbook.store/img/books/9781449374433.png
+url: https://itbook.store/books/9781449374433
+
+title: MongoDB: The Definitive Guide
+subtitle: Powerful and Scalable Data Storage
+isbn13: 9781449381561
+price: $31.99
+image: https://itbook.store/img/books/9781449381561.png
+url: https://itbook.store/books/9781449381561
+
+title: Access 2010: The Missing Manual
+subtitle: The Book That Should Have Been in the Box
+isbn13: 9781449382377
+price: $14.67
+image: https://itbook.store/img/books/9781449382377.png
+url: https://itbook.store/books/9781449382377
+
+title: Office 2010: The Missing Manual
+subtitle: 
+isbn13: 9781449382407
+price: $17.95
+image: https://itbook.store/img/books/9781449382407.png
+url: https://itbook.store/books/9781449382407
+
+title: Cassandra: The Definitive Guide
+subtitle: 
+isbn13: 9781449390419
+price: $12.62
+image: https://itbook.store/img/books/9781449390419.png
+url: https://itbook.store/books/9781449390419
+
+title: Using Drupal, 2nd Edition
+subtitle: Choosing and Configuring Modules to Build Dynamic Websites
+isbn13: 9781449390525
+price: $19.76
+image: https://itbook.store/img/books/9781449390525.png
+url: https://itbook.store/books/9781449390525
+
+title: High Performance Drupal
+subtitle: Fast and Scalable Designs
+isbn13: 9781449392611
+price: $33.99
+image: https://itbook.store/img/books/9781449392611.png
+url: https://itbook.store/books/9781449392611
+
+title: Python in a Nutshell, 3rd Edition
+subtitle: A Desktop Quick Reference
+isbn13: 9781449392925
+price: $55.78
+image: https://itbook.store/img/books/9781449392925.png
+url: https://itbook.store/books/9781449392925
+
+title: SQL Pocket Guide, 3rd Edition
+subtitle: A Guide to SQL Usage
+isbn13: 9781449394097
+price: $11.99
+image: https://itbook.store/img/books/9781449394097.png
+url: https://itbook.store/books/9781449394097
+
+title: HBase: The Definitive Guide
+subtitle: Random Access to Your Planet-Size Data
+isbn13: 9781449396107
+price: $24.61
+image: https://itbook.store/img/books/9781449396107.png
+url: https://itbook.store/books/9781449396107
+
+title: XML Publishing with Adobe InDesign
+subtitle: 
+isbn13: 9781449398576
+price: $9.99
+image: https://itbook.store/img/books/9781449398576.png
+url: https://itbook.store/books/9781449398576
+
+title: Professional Business Connectivity Services in SharePoint 2010
+subtitle: 
+isbn13: 9781457105296
+price: $0.00
+image: https://itbook.store/img/books/9781457105296.png
+url: https://itbook.store/books/9781457105296
+
+title: Beginning PHP 5.3
+subtitle: 
+isbn13: 9781457106125
+price: $0.00
+image: https://itbook.store/img/books/9781457106125.png
+url: https://itbook.store/books/9781457106125
+
+title: Discovering SQL
+subtitle: A Hands-On Guide for Beginners
+isbn13: 9781457106576
+price: $0.00
+image: https://itbook.store/img/books/9781457106576.png
+url: https://itbook.store/books/9781457106576
+
+title: Working with NHibernate 3.0
+subtitle: 
+isbn13: 9781457106873
+price: $0.00
+image: https://itbook.store/img/books/9781457106873.png
+url: https://itbook.store/books/9781457106873
+
+title: Beginning SQL
+subtitle: 
+isbn13: 9781457107795
+price: $0.00
+image: https://itbook.store/img/books/9781457107795.png
+url: https://itbook.store/books/9781457107795
+
+title: Beginning PHP5, Apache and MySQL Web Development
+subtitle: 
+isbn13: 9781457107863
+price: $0.00
+image: https://itbook.store/img/books/9781457107863.png
+url: https://itbook.store/books/9781457107863
+
+title: Quantum Walks and Search Algorithms
+subtitle: 
+isbn13: 9781461463368
+price: $54.99
+image: https://itbook.store/img/books/9781461463368.png
+url: https://itbook.store/books/9781461463368
+
+title: Practical Neo4j
+subtitle: 
+isbn13: 9781484200230
+price: $41.77
+image: https://itbook.store/img/books/9781484200230.png
+url: https://itbook.store/books/9781484200230
+
+title: Beginning T-SQL, 3rd Edition
+subtitle: 
+isbn13: 9781484200476
+price: $42.58
+image: https://itbook.store/img/books/9781484200476.png
+url: https://itbook.store/books/9781484200476
+
+title: SQL Server T-SQL Recipes, 4th Edition
+subtitle: 
+isbn13: 9781484200629
+price: $50.99
+image: https://itbook.store/img/books/9781484200629.png
+url: https://itbook.store/books/9781484200629
+
+title: Hibernate Recipes, 2nd Edition
+subtitle: A Problem-Solution Approach
+isbn13: 9781484201282
+price: $39.99
+image: https://itbook.store/img/books/9781484201282.png
+url: https://itbook.store/books/9781484201282
+
+title: Beginning Apache Cassandra Development
+subtitle: 
+isbn13: 9781484201435
+price: $46.38
+image: https://itbook.store/img/books/9781484201435.png
+url: https://itbook.store/books/9781484201435
+
+title: Pro T-SQL Programmer's Guide, 4th Edition
+subtitle: 
+isbn13: 9781484201466
+price: $58.78
+image: https://itbook.store/img/books/9781484201466.png
+url: https://itbook.store/books/9781484201466
+
+title: Pro Python System Administration, 2nd Edition
+subtitle: 
+isbn13: 9781484202180
+price: $54.99
+image: https://itbook.store/img/books/9781484202180.png
+url: https://itbook.store/books/9781484202180
+
+title: Oracle Enterprise Manager 12c Command-Line Interface
+subtitle: 
+isbn13: 9781484202395
+price: $44.99
+image: https://itbook.store/img/books/9781484202395.png
+url: https://itbook.store/books/9781484202395
+
+title: Pro Office 365 Development, 2nd Edition
+subtitle: 
+isbn13: 9781484202456
+price: $49.99
+image: https://itbook.store/img/books/9781484202456.png
+url: https://itbook.store/books/9781484202456
+
+title: Beginning SQL Server for Developers, 4th Edition
+subtitle: 
+isbn13: 9781484202814
+price: $38.59
+image: https://itbook.store/img/books/9781484202814.png
+url: https://itbook.store/books/9781484202814
+
+title: Cyber Operations
+subtitle: Building, Defending, and Attacking Modern Computer Networks
+isbn13: 9781484204580
+price: $59.99
+image: https://itbook.store/img/books/9781484204580.png
+url: https://itbook.store/books/9781484204580
+
+title: Expert Oracle Application Express, 2nd Edition
+subtitle: 
+isbn13: 9781484204856
+price: $55.08
+image: https://itbook.store/img/books/9781484204856.png
+url: https://itbook.store/books/9781484204856
+
+title: Practical Linux Infrastructure
+subtitle: 
+isbn13: 9781484205129
+price: $54.99
+image: https://itbook.store/img/books/9781484205129.png
+url: https://itbook.store/books/9781484205129
+
+title: Beginning Big Data with Power BI and Excel 2013
+subtitle: 
+isbn13: 9781484205303
+price: $39.99
+image: https://itbook.store/img/books/9781484205303.png
+url: https://itbook.store/books/9781484205303
+
+title: PHP and MySQL Recipes, 2nd Edition
+subtitle: A Problem-Solution Approach
+isbn13: 9781484206065
+price: $49.99
+image: https://itbook.store/img/books/9781484206065.png
+url: https://itbook.store/books/9781484206065
+
+title: PHP Solutions, 3rd Edition
+subtitle: Dynamic Web Design Made Easy
+isbn13: 9781484206362
+price: $42.49
+image: https://itbook.store/img/books/9781484206362.png
+url: https://itbook.store/books/9781484206362
+
+title: Extending SSIS with .NET Scripting
+subtitle: A Toolkit for SQL Server Integration Services
+isbn13: 9781484206393
+price: $49.73
+image: https://itbook.store/img/books/9781484206393.png
+url: https://itbook.store/books/9781484206393
+
+title: Practical MongoDB
+subtitle: Architecting, Developing, and Administering MongoDB
+isbn13: 9781484206485
+price: $32.04
+image: https://itbook.store/img/books/9781484206485.png
+url: https://itbook.store/books/9781484206485
+
+title: Pro PowerShell for Microsoft Azure
+subtitle: 
+isbn13: 9781484206669
+price: $49.99
+image: https://itbook.store/img/books/9781484206669.png
+url: https://itbook.store/books/9781484206669
+
+title: Beginning Oracle PL/SQL, 2nd Edition
+subtitle: 
+isbn13: 9781484207383
+price: $34.60
+image: https://itbook.store/img/books/9781484207383.png
+url: https://itbook.store/books/9781484207383
+
+title: Foundations of Joomla!, 2nd Edition
+subtitle: 
+isbn13: 9781484207505
+price: $21.26
+image: https://itbook.store/img/books/9781484207505.png
+url: https://itbook.store/books/9781484207505
+
+title: Oracle RMAN for Absolute Beginners
+subtitle: 
+isbn13: 9781484207642
+price: $29.99
+image: https://itbook.store/img/books/9781484207642.png
+url: https://itbook.store/books/9781484207642
+
+title: JavaServer Faces: Introduction by Example
+subtitle: 
+isbn13: 9781484208397
+price: $29.99
+image: https://itbook.store/img/books/9781484208397.png
+url: https://itbook.store/books/9781484208397
+
+title: Create Web Charts with D3
+subtitle: 
+isbn13: 9781484208663
+price: $32.80
+image: https://itbook.store/img/books/9781484208663.png
+url: https://itbook.store/books/9781484208663
+
+title: MongoDB Basics
+subtitle: 
+isbn13: 9781484208960
+price: $19.99
+image: https://itbook.store/img/books/9781484208960.png
+url: https://itbook.store/books/9781484208960
+
+title: Pro jQuery in Oracle Application Express
+subtitle: Practical techniques to enhance your APEX user interface
+isbn13: 9781484209622
+price: $21.28
+image: https://itbook.store/img/books/9781484209622.png
+url: https://itbook.store/books/9781484209622
+
+title: Pro Oracle Fusion Applications
+subtitle: Installation and Administration
+isbn13: 9781484209844
+price: $59.99
+image: https://itbook.store/img/books/9781484209844.png
+url: https://itbook.store/books/9781484209844
+
+title: Windows Registry Troubleshooting
+subtitle: 
+isbn13: 9781484209936
+price: $24.19
+image: https://itbook.store/img/books/9781484209936.png
+url: https://itbook.store/books/9781484209936
+
+title: Learn Excel 2016 for OS X, 2nd Edition
+subtitle: 
+isbn13: 9781484210208
+price: $34.99
+image: https://itbook.store/img/books/9781484210208.png
+url: https://itbook.store/books/9781484210208
+
+title: Expert Performance Indexing in SQL Server, 2nd Edition
+subtitle: 
+isbn13: 9781484211199
+price: $49.99
+image: https://itbook.store/img/books/9781484211199.png
+url: https://itbook.store/books/9781484211199
+
+title: Common Lisp Recipes
+subtitle: A Problem-Solution Approach
+isbn13: 9781484211779
+price: $54.59
+image: https://itbook.store/img/books/9781484211779.png
+url: https://itbook.store/books/9781484211779
+
+title: The Definitive Guide to MongoDB, 3rd Edition
+subtitle: A complete guide to dealing with Big Data using MongoDB
+isbn13: 9781484211830
+price: $48.94
+image: https://itbook.store/img/books/9781484211830.png
+url: https://itbook.store/books/9781484211830
+
+title: OpenStack Trove
+subtitle: 
+isbn13: 9781484212226
+price: $48.43
+image: https://itbook.store/img/books/9781484212226.png
+url: https://itbook.store/books/9781484212226
+
+title: Beginning Neo4j
+subtitle: Create relationships and grow your application with Neo4j
+isbn13: 9781484212288
+price: $41.57
+image: https://itbook.store/img/books/9781484212288.png
+url: https://itbook.store/books/9781484212288
+
+title: Linux and Solaris Recipes for Oracle DBAs, 2nd Edition
+subtitle: 
+isbn13: 9781484212554
+price: $48.86
+image: https://itbook.store/img/books/9781484212554.png
+url: https://itbook.store/books/9781484212554
+
+title: Beginning Ruby, 3rd Edition
+subtitle: From Novice to Professional
+isbn13: 9781484212790
+price: $20.72
+image: https://itbook.store/img/books/9781484212790.png
+url: https://itbook.store/books/9781484212790
+
+title: Practical Hadoop Migration
+subtitle: How to Integrate Your RDBMS with the Hadoop Ecosystem and Re-Architect Relational Applications to NoSQL
+isbn13: 9781484212882
+price: $42.77
+image: https://itbook.store/img/books/9781484212882.png
+url: https://itbook.store/books/9781484212882
+
+title: MySQL for the Internet of Things
+subtitle: Data management for sensors and connected devices
+isbn13: 9781484212943
+price: $34.99
+image: https://itbook.store/img/books/9781484212943.png
+url: https://itbook.store/books/9781484212943
+
+title: Scalable Big Data Architecture
+subtitle: A practitioners guide to choosing relevant Big Data architecture
+isbn13: 9781484213278
+price: $28.14
+image: https://itbook.store/img/books/9781484213278.png
+url: https://itbook.store/books/9781484213278
+
+title: Learn to Program with C
+subtitle: Learn to Program using the Popular C Programming Language
+isbn13: 9781484213728
+price: $34.99
+image: https://itbook.store/img/books/9781484213728.png
+url: https://itbook.store/books/9781484213728
+
+title: Introducing SQL Server
+subtitle: 
+isbn13: 9781484214206
+price: $44.99
+image: https://itbook.store/img/books/9781484214206.png
+url: https://itbook.store/books/9781484214206
+
+title: Pro Couchbase Development
+subtitle: A NoSQL Platform for the Enterprise
+isbn13: 9781484214350
+price: $49.91
+image: https://itbook.store/img/books/9781484214350.png
+url: https://itbook.store/books/9781484214350
+
+title: Make an E-commerce Site in a Weekend
+subtitle: Using PHP
+isbn13: 9781484216736
+price: $31.40
+image: https://itbook.store/img/books/9781484216736.png
+url: https://itbook.store/books/9781484216736
+
+title: Dynamic SQL
+subtitle: Applications, Performance, and Security
+isbn13: 9781484218105
+price: $37.99
+image: https://itbook.store/img/books/9781484218105.png
+url: https://itbook.store/books/9781484218105
+
+title: Practical Maintenance Plans in SQL Server
+subtitle: Automation for the DBA
+isbn13: 9781484218945
+price: $34.99
+image: https://itbook.store/img/books/9781484218945.png
+url: https://itbook.store/books/9781484218945
+
+title: Kubernetes Microservices with Docker
+subtitle: 
+isbn13: 9781484219065
+price: $44.02
+image: https://itbook.store/img/books/9781484219065.png
+url: https://itbook.store/books/9781484219065
+
+title: Beginning SQL Queries, 2nd Edition
+subtitle: From Novice to Professional
+isbn13: 9781484219546
+price: $18.84
+image: https://itbook.store/img/books/9781484219546.png
+url: https://itbook.store/books/9781484219546
+
+title: Pro SQL Server Internals, 2nd Edition
+subtitle: Understand what happens under the hood and how it affects you
+isbn13: 9781484219638
+price: $50.17
+image: https://itbook.store/img/books/9781484219638.png
+url: https://itbook.store/books/9781484219638
+
+title: XML and JSON Recipes for SQL Server
+subtitle: A Problem-Solution Approach
+isbn13: 9781484231166
+price: $34.99
+image: https://itbook.store/img/books/9781484231166.png
+url: https://itbook.store/books/9781484231166
+
+title: Oracle Incident Response and Forensics
+subtitle: Preparing for and Responding to Data Breaches
+isbn13: 9781484232637
+price: $15.02
+image: https://itbook.store/img/books/9781484232637.png
+url: https://itbook.store/books/9781484232637
+
+title: Cross Over to HTML5 Game Development
+subtitle: Use Your Programming Experience to Create Mobile Games
+isbn13: 9781484232903
+price: $16.40
+image: https://itbook.store/img/books/9781484232903.png
+url: https://itbook.store/books/9781484232903
+
+title: The Definitive Guide to AdonisJs
+subtitle: Building Node.js Applications with JavaScript
+isbn13: 9781484233894
+price: $29.99
+image: https://itbook.store/img/books/9781484233894.png
+url: https://itbook.store/books/9781484233894
+
+title: Pro Entity Framework Core 2 for ASP.NET Core MVC
+subtitle: 
+isbn13: 9781484234341
+price: $43.53
+image: https://itbook.store/img/books/9781484234341.png
+url: https://itbook.store/books/9781484234341
+
+title: Advanced Data Analytics Using Python
+subtitle: With Machine Learning, Deep Learning and NLP Examples
+isbn13: 9781484234495
+price: $38.01
+image: https://itbook.store/img/books/9781484234495.png
+url: https://itbook.store/books/9781484234495
+
+title: Java APIs, Extensions and Libraries, 2nd Edition
+subtitle: With JavaFX, JDBC, jmod, jlink, Networking, and the Process API
+isbn13: 9781484235454
+price: $49.97
+image: https://itbook.store/img/books/9781484235454.png
+url: https://itbook.store/books/9781484235454
+
+title: FileMaker Pro 13: The Missing Manual
+subtitle: The book that should have been in the box
+isbn13: 9781491900796
+price: $31.54
+image: https://itbook.store/img/books/9781491900796.png
+url: https://itbook.store/books/9781491900796
+
+title: Modern PHP
+subtitle: New Features and Good Practices
+isbn13: 9781491905012
+price: $25.99
+image: https://itbook.store/img/books/9781491905012.png
+url: https://itbook.store/books/9781491905012
+
+title: Essential SQLAlchemy, 2nd Edition
+subtitle: Mapping Python to Databases
+isbn13: 9781491916469
+price: $33.72
+image: https://itbook.store/img/books/9781491916469.png
+url: https://itbook.store/books/9781491916469
+
+title: FileMaker Pro 14: The Missing Manual
+subtitle: The book that should have been in the box
+isbn13: 9781491917480
+price: $24.92
+image: https://itbook.store/img/books/9781491917480.png
+url: https://itbook.store/books/9781491917480
+
+title: Oracle PL/SQL Language Pocket Reference, 5th Edition
+subtitle: A Guide to Oracle's PL/SQL Language Fundamentals
+isbn13: 9781491920008
+price: $11.21
+image: https://itbook.store/img/books/9781491920008.png
+url: https://itbook.store/books/9781491920008
+
+title: Foundations for Analytics with Python
+subtitle: From Non-Programmer to Hacker
+isbn13: 9781491922538
+price: $38.27
+image: https://itbook.store/img/books/9781491922538.png
+url: https://itbook.store/books/9781491922538
+
+title: Real-World Hadoop
+subtitle: 
+isbn13: 9781491922668
+price: $5.21
+image: https://itbook.store/img/books/9781491922668.png
+url: https://itbook.store/books/9781491922668
+
+title: Spock: Up and Running
+subtitle: Writing Expressive Tests in Java and Groovy
+isbn13: 9781491923290
+price: $36.92
+image: https://itbook.store/img/books/9781491923290.png
+url: https://itbook.store/books/9781491923290
+
+title: Introduction to JavaScript Object Notation
+subtitle: A To-the-Point Guide to JSON
+isbn13: 9781491929483
+price: $15.81
+image: https://itbook.store/img/books/9781491929483.png
+url: https://itbook.store/books/9781491929483
+
+title: Learning PHP
+subtitle: A Gentle Introduction to the Web's Most Popular Language
+isbn13: 9781491933572
+price: $23.65
+image: https://itbook.store/img/books/9781491933572.png
+url: https://itbook.store/books/9781491933572
+
+title: Cassandra: The Definitive Guide, 2nd Edition
+subtitle: Distributed Data at Web Scale
+isbn13: 9781491933664
+price: $24.41
+image: https://itbook.store/img/books/9781491933664.png
+url: https://itbook.store/books/9781491933664
+
+title: Laravel: Up and Running
+subtitle: A Framework for Building Modern PHP Apps
+isbn13: 9781491936085
+price: $36.80
+image: https://itbook.store/img/books/9781491936085.png
+url: https://itbook.store/books/9781491936085
+
+title: iOS 9 Swift Programming Cookbook
+subtitle: Solutions and Examples for iOS Apps
+isbn13: 9781491936696
+price: $12.70
+image: https://itbook.store/img/books/9781491936696.png
+url: https://itbook.store/books/9781491936696
+
+title: Getting Started with SQL
+subtitle: A Hands-On Approach for Beginners
+isbn13: 9781491938614
+price: $28.99
+image: https://itbook.store/img/books/9781491938614.png
+url: https://itbook.store/books/9781491938614
+
+title: Building Microservices with ASP.NET Core
+subtitle: Develop, Test, and Deploy Cross-Platform Services in the Cloud
+isbn13: 9781491961735
+price: $30.76
+image: https://itbook.store/img/books/9781491961735.png
+url: https://itbook.store/books/9781491961735
+
+title: Flask Web Development, 2nd Edition
+subtitle: Developing Web Applications with Python
+isbn13: 9781491991732
+price: $38.99
+image: https://itbook.store/img/books/9781491991732.png
+url: https://itbook.store/books/9781491991732
+
+title: HBase: The Definitive Guide, 2nd Edition
+subtitle: Random Access to Your Planet-Size Data
+isbn13: 9781492024262
+price: $53.99
+image: https://itbook.store/img/books/9781492024262.png
+url: https://itbook.store/books/9781492024262
+
+title: Exam Ref 70-761 Querying Data with Transact-SQL
+subtitle: 
+isbn13: 9781509304332
+price: $30.31
+image: https://itbook.store/img/books/9781509304332.png
+url: https://itbook.store/books/9781509304332
+
+title: Exam Ref 70-768 Developing SQL Data Models
+subtitle: 
+isbn13: 9781509305155
+price: $24.61
+image: https://itbook.store/img/books/9781509305155.png
+url: https://itbook.store/books/9781509305155
+
+title: SQL Server 2017 Administration Inside Out
+subtitle: 
+isbn13: 9781509305216
+price: $39.20
+image: https://itbook.store/img/books/9781509305216.png
+url: https://itbook.store/books/9781509305216
+
+title: Exam Ref 70-767 Implementing a SQL Data Warehouse
+subtitle: 
+isbn13: 9781509306473
+price: $31.99
+image: https://itbook.store/img/books/9781509306473.png
+url: https://itbook.store/books/9781509306473
+
+title: Oracle Performance Tuning, 2nd Edition
+subtitle: 
+isbn13: 9781565922372
+price: $30.30
+image: https://itbook.store/img/books/9781565922372.png
+url: https://itbook.store/books/9781565922372
+
+title: Delphi in a Nutshell
+subtitle: 
+isbn13: 9781565926592
+price: $35.18
+image: https://itbook.store/img/books/9781565926592.png
+url: https://itbook.store/books/9781565926592
+
+title: PeopleSoft for the Oracle DBA
+subtitle: 
+isbn13: 9781590594223
+price: $43.36
+image: https://itbook.store/img/books/9781590594223.png
+url: https://itbook.store/books/9781590594223
+
+title: Pro MySQL
+subtitle: 
+isbn13: 9781590595053
+price: $39.99
+image: https://itbook.store/img/books/9781590595053.png
+url: https://itbook.store/books/9781590595053
+
+title: PHP 5 Recipes
+subtitle: A Problem-Solution Approach
+isbn13: 9781590595091
+price: $34.99
+image: https://itbook.store/img/books/9781590595091.png
+url: https://itbook.store/books/9781590595091
+
+title: Beginning Python
+subtitle: From Novice to Professional
+isbn13: 9781590595190
+price: $34.99
+image: https://itbook.store/img/books/9781590595190.png
+url: https://itbook.store/books/9781590595190
+
+title: The Definitive Guide to MySQL 5, 3rd Edition
+subtitle: 
+isbn13: 9781590595350
+price: $30.17
+image: https://itbook.store/img/books/9781590595350.png
+url: https://itbook.store/books/9781590595350
+
+title: Pro Scalable .NET 2.0 Application Designs
+subtitle: 
+isbn13: 9781590595411
+price: $17.94
+image: https://itbook.store/img/books/9781590595411.png
+url: https://itbook.store/books/9781590595411
+
+title: Beginning PHP and PostgreSQL 8
+subtitle: From Novice to Professional
+isbn13: 9781590595473
+price: $39.99
+image: https://itbook.store/img/books/9781590595473.png
+url: https://itbook.store/books/9781590595473
+
+title: Beginning PHP and PostgreSQL E-Commerce
+subtitle: From Novice to Professional
+isbn13: 9781590596487
+price: $45.42
+image: https://itbook.store/img/books/9781590596487.png
+url: https://itbook.store/books/9781590596487
+
+title: The Definitive Guide to SQLite
+subtitle: 
+isbn13: 9781590596739
+price: $44.99
+image: https://itbook.store/img/books/9781590596739.png
+url: https://itbook.store/books/9781590596739
+
+title: Beginning ASP.NET 3.5 in VB 2008, 2nd Edition
+subtitle: From Novice to Professional
+isbn13: 9781590598924
+price: $18.11
+image: https://itbook.store/img/books/9781590598924.png
+url: https://itbook.store/books/9781590598924
+
+title: Visual Basic 2008 Recipes
+subtitle: A Problem-Solution Approach
+isbn13: 9781590599709
+price: $39.99
+image: https://itbook.store/img/books/9781590599709.png
+url: https://itbook.store/books/9781590599709
+
+title: SQL Server 2008 Transact-SQL Recipes
+subtitle: A Problem-Solution Approach
+isbn13: 9781590599808
+price: $44.99
+image: https://itbook.store/img/books/9781590599808.png
+url: https://itbook.store/books/9781590599808
+
+title: Wicked Cool PHP
+subtitle: Real-World Scripts That Solve Difficult Problems
+isbn13: 9781593271732
+price: $19.99
+image: https://itbook.store/img/books/9781593271732.png
+url: https://itbook.store/books/9781593271732
+
+title: Practical SQL
+subtitle: A Beginner's Guide to Storytelling with Data
+isbn13: 9781593278274
+price: $23.99
+image: https://itbook.store/img/books/9781593278274.png
+url: https://itbook.store/books/9781593278274
+
+title: Java Persistence with Hibernate, 2nd Edition
+subtitle: 
+isbn13: 9781617290459
+price: $39.99
+image: https://itbook.store/img/books/9781617290459.png
+url: https://itbook.store/books/9781617290459
+
+title: Single Page Web Applications
+subtitle: JavaScript end-to-end
+isbn13: 9781617290756
+price: $36.05
+image: https://itbook.store/img/books/9781617290756.png
+url: https://itbook.store/books/9781617290756
+
+title: Redis in Action
+subtitle: 
+isbn13: 9781617290855
+price: $34.50
+image: https://itbook.store/img/books/9781617290855.png
+url: https://itbook.store/books/9781617290855
+
+title: The Art of Unit Testing, 2nd Edition
+subtitle: with examples in C#
+isbn13: 9781617290893
+price: $35.99
+image: https://itbook.store/img/books/9781617290893.png
+url: https://itbook.store/books/9781617290893
+
+title: Making Sense of NoSQL
+subtitle: A guide for managers and the rest of us
+isbn13: 9781617291074
+price: $17.99
+image: https://itbook.store/img/books/9781617291074.png
+url: https://itbook.store/books/9781617291074
+
+title: PostGIS in Action, 2nd Edition
+subtitle: 
+isbn13: 9781617291395
+price: $39.99
+image: https://itbook.store/img/books/9781617291395.png
+url: https://itbook.store/books/9781617291395
+
+title: Clojure in Action, 2nd Edition
+subtitle: 
+isbn13: 9781617291524
+price: $39.99
+image: https://itbook.store/img/books/9781617291524.png
+url: https://itbook.store/books/9781617291524
+
+title: MongoDB in Action, 2nd Edition
+subtitle: Covers MongoDB version 3.0
+isbn13: 9781617291609
+price: $35.99
+image: https://itbook.store/img/books/9781617291609.png
+url: https://itbook.store/books/9781617291609
+
+title: Getting MEAN with Mongo, Express, Angular, and Node
+subtitle: 
+isbn13: 9781617292033
+price: $31.48
+image: https://itbook.store/img/books/9781617292033.png
+url: https://itbook.store/books/9781617292033
+
+title: Express in Action
+subtitle: Writing, building, and testing Node.js applications
+isbn13: 9781617292422
+price: $25.00
+image: https://itbook.store/img/books/9781617292422.png
+url: https://itbook.store/books/9781617292422
+
+title: Web Development with Clojure, 2nd Edition
+subtitle: Build Bulletproof Web Apps with Less Code
+isbn13: 9781680500820
+price: $28.20
+image: https://itbook.store/img/books/9781680500820.png
+url: https://itbook.store/books/9781680500820
+
+title: Secure Your Node.js Web Application
+subtitle: Keep Attackers Out and Users Happy
+isbn13: 9781680500851
+price: $24.34
+image: https://itbook.store/img/books/9781680500851.png
+url: https://itbook.store/books/9781680500851
+
+title: Test-Driving JavaScript Applications
+subtitle: Rapid, Confident, Maintainable Code
+isbn13: 9781680501742
+price: $29.46
+image: https://itbook.store/img/books/9781680501742.png
+url: https://itbook.store/books/9781680501742
+
+title: Data Science Essentials in Python
+subtitle: Collect - Organize - Explore - Predict - Value
+isbn13: 9781680501841
+price: $19.35
+image: https://itbook.store/img/books/9781680501841.png
+url: https://itbook.store/books/9781680501841
+
+title: Node.js 8 the Right Way
+subtitle: Practical, Server-Side JavaScript That Scales
+isbn13: 9781680501957
+price: $28.99
+image: https://itbook.store/img/books/9781680501957.png
+url: https://itbook.store/books/9781680501957
+
+title: Rails, Angular, Postgres, and Bootstrap, 2nd Edition
+subtitle: Powerful, Effective, Efficient, Full-Stack Web Development
+isbn13: 9781680502206
+price: $33.49
+image: https://itbook.store/img/books/9781680502206.png
+url: https://itbook.store/books/9781680502206
+
+title: tmux 2
+subtitle: Productive Mouse-Free Development
+isbn13: 9781680502213
+price: $15.82
+image: https://itbook.store/img/books/9781680502213.png
+url: https://itbook.store/books/9781680502213
+
+title: The Cucumber Book, 2nd Edition
+subtitle: Behaviour-Driven Development for Testers and Developers
+isbn13: 9781680502381
+price: $31.14
+image: https://itbook.store/img/books/9781680502381.png
+url: https://itbook.store/books/9781680502381
+
+title: Functional Web Development with Elixir, OTP, and Phoenix
+subtitle: Rethink the Modern Web App
+isbn13: 9781680502435
+price: $39.99
+image: https://itbook.store/img/books/9781680502435.png
+url: https://itbook.store/books/9781680502435
+
+title: Domain Modeling Made Functional
+subtitle: Tackle Software Complexity with Domain-Driven Design and F#
+isbn13: 9781680502541
+price: $39.54
+image: https://itbook.store/img/books/9781680502541.png
+url: https://itbook.store/books/9781680502541
+
+title: Practical Programming, 3rd Edition
+subtitle: An Introduction to Computer Science Using Python 3.6
+isbn13: 9781680502688
+price: $42.99
+image: https://itbook.store/img/books/9781680502688.png
+url: https://itbook.store/books/9781680502688
+
+title: Migrating to Drupal 7
+subtitle: Learn how to quickly and efficiently migrate content into Drupal 7
+isbn13: 9781782160540
+price: $14.99
+image: https://itbook.store/img/books/9781782160540.png
+url: https://itbook.store/books/9781782160540
+
+title: Puppet 3 Beginner's Guide
+subtitle: Start from scratch with the Puppet configuration management system, and learn how to fully utilize Puppet through simple, practical examples
+isbn13: 9781782161240
+price: $26.99
+image: https://itbook.store/img/books/9781782161240.png
+url: https://itbook.store/books/9781782161240
+
+title: Apache Solr Enterprise Search Server, 3rd Edition
+subtitle: Enhance your searches with faceted navigation, result highlighting, relevancy-ranked sorting, and much more with this comprehensive guide to Apache Solr 4
+isbn13: 9781782161363
+price: $35.99
+image: https://itbook.store/img/books/9781782161363.png
+url: https://itbook.store/books/9781782161363
+
+title: Instant R Starter
+subtitle: Jump into the R programming language and go beyond
+isbn13: 9781782163503
+price: $14.99
+image: https://itbook.store/img/books/9781782163503.png
+url: https://itbook.store/books/9781782163503
+
+title: Java Persistence with MyBatis 3
+subtitle: A practical guide to MyBatis, a simple yet powerful Java Persistence Framework!
+isbn13: 9781782166801
+price: $14.99
+image: https://itbook.store/img/books/9781782166801.png
+url: https://itbook.store/books/9781782166801
+
+title: Getting Started with MariaDB
+subtitle: Learn how to use MariaDB to store your data easily and hassle-free
+isbn13: 9781782168096
+price: $20.99
+image: https://itbook.store/img/books/9781782168096.png
+url: https://itbook.store/books/9781782168096
+
+title: Mongoose for Application Development
+subtitle: Learn to speed up your application development by using Mongoose to harness the power of Node.js and MongoDB
+isbn13: 9781782168195
+price: $23.99
+image: https://itbook.store/img/books/9781782168195.png
+url: https://itbook.store/books/9781782168195
+
+title: Pentaho Analytics for MongoDB
+subtitle: Combine Pentaho Analytics and MongoDB to create powerful analysis and reporting solutions
+isbn13: 9781782168355
+price: $16.99
+image: https://itbook.store/img/books/9781782168355.png
+url: https://itbook.store/books/9781782168355
+
+title: HP Vertica Essentials
+subtitle: Learn how to deploy, administer, and manage HP Vertica, one of the most robust MPP solutions around
+isbn13: 9781782171560
+price: $23.99
+image: https://itbook.store/img/books/9781782171560.png
+url: https://itbook.store/books/9781782171560
+
+title: Microsoft System Center Reporting Cookbook
+subtitle: Over 40 practical recipes to help you plan, create, and manage reports efficiently for all components of Microsoft System Center
+isbn13: 9781782171805
+price: $49.99
+image: https://itbook.store/img/books/9781782171805.png
+url: https://itbook.store/books/9781782171805
+
+title: Real Time Analytics with SAP HANA
+subtitle: Enhance your SAP HANA skills using this step-by-step guide to creating and reporting data models for real-time analytics
+isbn13: 9781782174110
+price: $31.99
+image: https://itbook.store/img/books/9781782174110.png
+url: https://itbook.store/books/9781782174110
+
+title: Implementing Cloud Design Patterns for AWS
+subtitle: Create highly efficient design patterns for scalability, redundancy, and high availability in the AWS Cloud
+isbn13: 9781782177340
+price: $26.99
+image: https://itbook.store/img/books/9781782177340.png
+url: https://itbook.store/books/9781782177340
+
+title: Data Manipulation with R
+subtitle: Perform group-wise data manipulation and deal with large datasets using R efficiently and effectively
+isbn13: 9781783281091
+price: $17.99
+image: https://itbook.store/img/books/9781783281091.png
+url: https://itbook.store/books/9781783281091
+
+title: PHPUnit Essentials
+subtitle: Get started with PHPUnit and learn how to write and test code using advanced technologies
+isbn13: 9781783283439
+price: $26.99
+image: https://itbook.store/img/books/9781783283439.png
+url: https://itbook.store/books/9781783283439
+
+title: D Cookbook
+subtitle: Discover the advantages of programming in D with over 100 incredibly effective recipes
+isbn13: 9781783287215
+price: $29.99
+image: https://itbook.store/img/books/9781783287215.png
+url: https://itbook.store/books/9781783287215
+
+title: Neo4j Cookbook
+subtitle: Harness the power of Neo4j to perform complex data analysis over the course of 75 easy-to-follow recipes
+isbn13: 9781783287253
+price: $35.99
+image: https://itbook.store/img/books/9781783287253.png
+url: https://itbook.store/books/9781783287253
+
+title: Learning Cypher
+subtitle: Write powerful and efficient queries for Neo4j with Cypher, its official query language
+isbn13: 9781783287758
+price: $16.99
+image: https://itbook.store/img/books/9781783287758.png
+url: https://itbook.store/books/9781783287758
+
+title: PhoneGap 4 Mobile Application Development Cookbook
+subtitle: Build real-world hybrid mobile applications using the robust PhoneGap development platform
+isbn13: 9781783287949
+price: $49.99
+image: https://itbook.store/img/books/9781783287949.png
+url: https://itbook.store/books/9781783287949
+
+title: Advanced Java EE Development with WildFly
+subtitle: Your one-stop guide to developing Java EE applications with the Eclipse IDE, Maven, and WildFly 8.1
+isbn13: 9781783288908
+price: $39.99
+image: https://itbook.store/img/books/9781783288908.png
+url: https://itbook.store/books/9781783288908
+
+title: CoffeeScript Application Development Cookbook
+subtitle: Over 90 hands-on recipes to help you develop engaging applications using CoffeeScript
+isbn13: 9781783289691
+price: $49.99
+image: https://itbook.store/img/books/9781783289691.png
+url: https://itbook.store/books/9781783289691
+
+title: VMware vSphere Troubleshooting
+subtitle: Gain expertise in troubleshooting most common issues to implement vSphere environments with ease
+isbn13: 9781783551767
+price: $39.99
+image: https://itbook.store/img/books/9781783551767.png
+url: https://itbook.store/books/9781783551767
+
+title: Learning Single-page Web Application Development
+subtitle: Build powerful and scalable single-page web applications using a full stack JavaScript environment with Node.js, MongoDB, AngularJS, and the Express framework
+isbn13: 9781783552092
+price: $44.99
+image: https://itbook.store/img/books/9781783552092.png
+url: https://itbook.store/books/9781783552092
+
+title: Pentaho Analytics for MongoDB Cookbook
+subtitle: Over 50 recipes to learn how to use Pentaho Analytics and MongoDB to create powerful analysis and reporting solutions
+isbn13: 9781783553273
+price: $44.99
+image: https://itbook.store/img/books/9781783553273.png
+url: https://itbook.store/books/9781783553273
+
+title: Python Data Analysis
+subtitle: Learn how to apply powerful data analysis techniques with popular open source Python modules
+isbn13: 9781783553358
+price: $29.99
+image: https://itbook.store/img/books/9781783553358.png
+url: https://itbook.store/books/9781783553358
+
+title: vCenter Troubleshooting
+subtitle: Resolve some of the most commonly faced vCenter problems with the use of this troubleshooting guide
+isbn13: 9781783554034
+price: $29.99
+image: https://itbook.store/img/books/9781783554034.png
+url: https://itbook.store/books/9781783554034
+
+title: Neo4j Essentials
+subtitle: Leverage the power of Neo4j to design, implement, and deliver top-notch projects
+isbn13: 9781783555178
+price: $17.99
+image: https://itbook.store/img/books/9781783555178.png
+url: https://itbook.store/books/9781783555178
+
+title: PostgreSQL Cookbook
+subtitle: Over 90 hands-on recipes to effectively manage, administer, and design solutions using PostgreSQL
+isbn13: 9781783555338
+price: $26.99
+image: https://itbook.store/img/books/9781783555338.png
+url: https://itbook.store/books/9781783555338
+
+title: PostgreSQL Server Programming, 2nd Edition
+subtitle: Extend PostgreSQL using PostgreSQL server programming to create, test, debug, and optimize a range of user-defined functions in your favorite programming language
+isbn13: 9781783980581
+price: $29.99
+image: https://itbook.store/img/books/9781783980581.png
+url: https://itbook.store/books/9781783980581
+
+title: HBase Design Patterns
+subtitle: Design and implement successful patterns to develop scalable applications with HBase
+isbn13: 9781783981045
+price: $19.99
+image: https://itbook.store/img/books/9781783981045.png
+url: https://itbook.store/books/9781783981045
+
+title: Learning Flask Framework
+subtitle: Build dynamic, data-driven websites and modern web applications with Flask
+isbn13: 9781783983360
+price: $35.99
+image: https://itbook.store/img/books/9781783983360.png
+url: https://itbook.store/books/9781783983360
+
+title: Building Web Applications with Python and Neo4j
+subtitle: Develop exciting real-world Python-based web applications with Neo4j using frameworks such as Flask, Py2neo, and Django
+isbn13: 9781783983988
+price: $27.99
+image: https://itbook.store/img/books/9781783983988.png
+url: https://itbook.store/books/9781783983988
+
+title: Learning Django Web Development
+subtitle: From idea to prototype, a learner's guide for web development with the Django application framework
+isbn13: 9781783984404
+price: $35.99
+image: https://itbook.store/img/books/9781783984404.png
+url: https://itbook.store/books/9781783984404
+
+title: CentOS System Administration Essentials
+subtitle: Become an efficient CentOS administrator by acquiring real-world knowledge of system setup and configuration
+isbn13: 9781783985920
+price: $16.99
+image: https://itbook.store/img/books/9781783985920.png
+url: https://itbook.store/books/9781783985920
+
+title: HBase Essentials
+subtitle: A practical guide to realizing the seamless potential of storing and managing high-volume, high-velocity data quickly and painlessly with HBase
+isbn13: 9781783987245
+price: $20.99
+image: https://itbook.store/img/books/9781783987245.png
+url: https://itbook.store/books/9781783987245
+
+title: Cassandra High Availability
+subtitle: Harness the power of Apache Cassandra to build scalable, fault-tolerant, and readily available applications
+isbn13: 9781783989126
+price: $24.99
+image: https://itbook.store/img/books/9781783989126.png
+url: https://itbook.store/books/9781783989126
+
+title: Mastering Entity Framework
+subtitle: Effortlessly produce data-driven applications for .NET to address the competing demands of data storage and data modeling with Entity Framework
+isbn13: 9781784391003
+price: $29.99
+image: https://itbook.store/img/books/9781784391003.png
+url: https://itbook.store/books/9781784391003
+
+title: Cross-platform UI Development with Xamarin.Forms
+subtitle: Create a fully operating application and deploy it to major mobile platforms using Xamarin.Forms
+isbn13: 9781784391195
+price: $29.99
+image: https://itbook.store/img/books/9781784391195.png
+url: https://itbook.store/books/9781784391195
+
+title: Testing with F#
+subtitle: Deliver high-quality, bug-free applications by testing them with efficient and expressive functional programming
+isbn13: 9781784391232
+price: $26.99
+image: https://itbook.store/img/books/9781784391232.png
+url: https://itbook.store/books/9781784391232
+
+title: Learning Laravel's Eloquent
+subtitle: Develop amazing data-based applications with Eloquent, the Laravel framework ORM
+isbn13: 9781784391584
+price: $23.99
+image: https://itbook.store/img/books/9781784391584.png
+url: https://itbook.store/books/9781784391584
+
+title: Clojure Web Development Essentials
+subtitle: Develop your own web application with the effective use of the Clojure programming language
+isbn13: 9781784392222
+price: $44.99
+image: https://itbook.store/img/books/9781784392222.png
+url: https://itbook.store/books/9781784392222
+
+title: Redis Essentials
+subtitle: Harness the power of Redis to integrate and manage your projects efficiently
+isbn13: 9781784392451
+price: $31.99
+image: https://itbook.store/img/books/9781784392451.png
+url: https://itbook.store/books/9781784392451
+
+title: Couchbase Essentials
+subtitle: Harness the power of Couchbase to build flexible and scalable applications
+isbn13: 9781784394493
+price: $18.53
+image: https://itbook.store/img/books/9781784394493.png
+url: https://itbook.store/books/9781784394493
+
+title: Learning Haskell Data Analysis
+subtitle: Analyze, manipulate, and process datasets of varying sizes efficiently using Haskell
+isbn13: 9781784394707
+price: $27.99
+image: https://itbook.store/img/books/9781784394707.png
+url: https://itbook.store/books/9781784394707
+
+title: Flask Blueprints
+subtitle: Dive into the world of the Flask microframework to develop an array of web applications
+isbn13: 9781784394783
+price: $44.99
+image: https://itbook.store/img/books/9781784394783.png
+url: https://itbook.store/books/9781784394783
+
+title: Node.js By Example
+subtitle: Learn to use Node.js by creating a fully functional social network
+isbn13: 9781784395711
+price: $35.99
+image: https://itbook.store/img/books/9781784395711.png
+url: https://itbook.store/books/9781784395711
+
+title: RSpec Essentials
+subtitle: Develop testable, modular, and maintainable Ruby software for the real world using RSpec
+isbn13: 9781784395902
+price: $31.99
+image: https://itbook.store/img/books/9781784395902.png
+url: https://itbook.store/books/9781784395902
+
+title: Building Web Applications with Flask
+subtitle: Use Python and Flask to build amazing web applications, just the way you want them!
+isbn13: 9781784396152
+price: $27.99
+image: https://itbook.store/img/books/9781784396152.png
+url: https://itbook.store/books/9781784396152
+
+title: Code-First Development with Entity Framework
+subtitle: Take your data access skills to the next level with Entity Framework
+isbn13: 9781784396275
+price: $24.99
+image: https://itbook.store/img/books/9781784396275.png
+url: https://itbook.store/books/9781784396275
+
+title: Ansible Playbook Essentials
+subtitle: Design automation blueprints using Ansible's playbooks to orchestrate and manage your multi-tier infrastructure
+isbn13: 9781784398293
+price: $23.99
+image: https://itbook.store/img/books/9781784398293.png
+url: https://itbook.store/books/9781784398293
+
+title: Building Web Services with Microsoft Azure
+subtitle: Quickly develop scalable, REST-based applications or services and learn how to manage them using Microsoft Azure
+isbn13: 9781784398378
+price: $44.99
+image: https://itbook.store/img/books/9781784398378.png
+url: https://itbook.store/books/9781784398378
+
+title: SFML Blueprints
+subtitle: Sharpen your game development skills and improve your C++ and SFML knowledge with five exciting projects
+isbn13: 9781784398477
+price: $39.99
+image: https://itbook.store/img/books/9781784398477.png
+url: https://itbook.store/books/9781784398477
+
+title: Mastering QGIS
+subtitle: Go beyond the basics and unleash the full power of QGIS with practical, step-by-step examples
+isbn13: 9781784398682
+price: $38.49
+image: https://itbook.store/img/books/9781784398682.png
+url: https://itbook.store/books/9781784398682
+
+title: Automating Microsoft Azure with PowerShell
+subtitle: Automate Microsoft Azure tasks using Windows PowerShell to take full control of your Microsoft Azure deployments
+isbn13: 9781784398873
+price: $23.99
+image: https://itbook.store/img/books/9781784398873.png
+url: https://itbook.store/books/9781784398873
+
+title: Learning Node.js for Mobile Application Development
+subtitle: Make use of Node.js to learn the development of a simple yet scalable cross-platform mobile application
+isbn13: 9781785280498
+price: $35.99
+image: https://itbook.store/img/books/9781785280498.png
+url: https://itbook.store/books/9781785280498
+
+title: Clojure Data Structures and Algorithms Cookbook
+subtitle: 25 recipes to deeply understand and implement advanced algorithms in Clojure
+isbn13: 9781785281457
+price: $39.99
+image: https://itbook.store/img/books/9781785281457.png
+url: https://itbook.store/books/9781785281457
+
+title: Getting Started with MariaDB, 2nd Edition
+subtitle: Explore the powerful features of MariaDB with practical examples
+isbn13: 9781785284120
+price: $19.99
+image: https://itbook.store/img/books/9781785284120.png
+url: https://itbook.store/books/9781785284120
+
+title: Mastering Ubuntu Server
+subtitle: Get up to date with the finer points of Ubuntu Server using this comprehensive guide
+isbn13: 9781785284526
+price: $39.99
+image: https://itbook.store/img/books/9781785284526.png
+url: https://itbook.store/books/9781785284526
+
+title: Getting Started with Meteor.js JavaScript Framework, 2nd Edition
+subtitle: Learn to develop powerful web applications in minutes with Meteor
+isbn13: 9781785285547
+price: $26.99
+image: https://itbook.store/img/books/9781785285547.png
+url: https://itbook.store/books/9781785285547
+
+title: JavaScript JSON Cookbook
+subtitle: Over 80 recipes to make the most of JSON in your desktop, server, web, and mobile applications
+isbn13: 9781785286902
+price: $35.99
+image: https://itbook.store/img/books/9781785286902.png
+url: https://itbook.store/books/9781785286902
+
+title: Flask By Example
+subtitle: Unleash the full potential of the Flask web framework by creating simple yet powerful web applications
+isbn13: 9781785286933
+price: $27.99
+image: https://itbook.store/img/books/9781785286933.png
+url: https://itbook.store/books/9781785286933
+
+title: Web Development with MongoDB and NodeJS, 2nd Edition
+subtitle: Build an interactive and full-featured web application from scratch using Node.js and MongoDB
+isbn13: 9781785287527
+price: $31.99
+image: https://itbook.store/img/books/9781785287527.png
+url: https://itbook.store/books/9781785287527
+
+title: Learning Couchbase
+subtitle: Design documents and implement real world e-commerce applications with Couchbase
+isbn13: 9781785288593
+price: $44.99
+image: https://itbook.store/img/books/9781785288593.png
+url: https://itbook.store/books/9781785288593
+
+title: MongoDB Cookbook, 2nd Edition
+subtitle: Harness the latest features of MongoDB 3 with this collection of 80 recipes - from managing cloud platforms to app development, this book is a vital resource
+isbn13: 9781785289989
+price: $35.99
+image: https://itbook.store/img/books/9781785289989.png
+url: https://itbook.store/books/9781785289989
+
+title: Ubuntu Server Cookbook
+subtitle: Arm yourself to make the most of the versatile, powerful Ubuntu Server with over 100 hands-on recipes
+isbn13: 9781785883064
+price: $34.99
+image: https://itbook.store/img/books/9781785883064.png
+url: https://itbook.store/books/9781785883064
+
+title: Web Development with Django Cookbook, 2nd Edition
+subtitle: Over 90 practical recipes to help you create scalable websites using the Django 1.8 framework
+isbn13: 9781785886775
+price: $39.99
+image: https://itbook.store/img/books/9781785886775.png
+url: https://itbook.store/books/9781785886775
+
+title: Tkinter GUI Application Development Blueprints
+subtitle: Master GUI programming in Tkinter as you design, implement, and deliver ten real-world applications from start to finish
+isbn13: 9781785889738
+price: $35.99
+image: https://itbook.store/img/books/9781785889738.png
+url: https://itbook.store/books/9781785889738
+
+title: Phoenix Web Development
+subtitle: Create rich web applications using functional programming techniques with Phoenix and Elixir
+isbn13: 9781787284197
+price: $39.99
+image: https://itbook.store/img/books/9781787284197.png
+url: https://itbook.store/books/9781787284197
+
+title: Mastering Geospatial Analysis with Python
+subtitle: Explore GIS processing and learn to work with GeoDjango, CARTOframes and MapboxGL-Jupyter
+isbn13: 9781788293334
+price: $39.99
+image: https://itbook.store/img/books/9781788293334.png
+url: https://itbook.store/books/9781788293334
+
+title: Hands-On GUI Programming with C++ and Qt5
+subtitle: Build stunning cross-platform applications and widgets with the most powerful GUI framework
+isbn13: 9781788397827
+price: $35.99
+image: https://itbook.store/img/books/9781788397827.png
+url: https://itbook.store/books/9781788397827
+
+title: Learning JavaScript Data Structures and Algorithms, 3rd Edition
+subtitle: Write complex and powerful JavaScript code using the latest ECMAScript
+isbn13: 9781788623872
+price: $44.99
+image: https://itbook.store/img/books/9781788623872.png
+url: https://itbook.store/books/9781788623872
+
+title: LINQ Quickly
+subtitle: A practical guide to programming Language Integrated Query with C#
+isbn13: 9781847192547
+price: $20.99
+image: https://itbook.store/img/books/9781847192547.png
+url: https://itbook.store/books/9781847192547
+
+title: Microsoft Dynamics NAV Administration
+subtitle: A quick guide to install, configure, deploy, and administer Dynamics NAV with ease
+isbn13: 9781847198761
+price: $23.99
+image: https://itbook.store/img/books/9781847198761.png
+url: https://itbook.store/books/9781847198761
+
+title: Oracle 11g Streams Implementer's Guide
+subtitle: Design, implement, and maintain a distributed environment with Oracle Streams
+isbn13: 9781847199706
+price: $35.99
+image: https://itbook.store/img/books/9781847199706.png
+url: https://itbook.store/books/9781847199706
+
+title: MySQL for Python
+subtitle: Integrate the flexibility of Python and the power of MySQL to boost the productivity of your applications
+isbn13: 9781849510189
+price: $29.99
+image: https://itbook.store/img/books/9781849510189.png
+url: https://itbook.store/books/9781849510189
+
+title: PostgreSQL 9.0 High Performance
+subtitle: Accelerate your PostgreSQL system
+isbn13: 9781849510301
+price: $29.99
+image: https://itbook.store/img/books/9781849510301.png
+url: https://itbook.store/books/9781849510301
+
+title: Python Geospatial Development
+subtitle: 
+isbn13: 9781849511544
+price: $29.99
+image: https://itbook.store/img/books/9781849511544.png
+url: https://itbook.store/books/9781849511544
+
+title: NHibernate 3.0 Cookbook
+subtitle: 70 incredibly powerful recipes for using the full spectrum of solutions in the NHibernate ecosystem
+isbn13: 9781849513043
+price: $26.99
+image: https://itbook.store/img/books/9781849513043.png
+url: https://itbook.store/books/9781849513043
+
+title: Python 3 Web Development
+subtitle: Beginner's Guide
+isbn13: 9781849513746
+price: $26.99
+image: https://itbook.store/img/books/9781849513746.png
+url: https://itbook.store/books/9781849513746
+
+title: SilverStripe 2.4: Module Extension, Themes, and Widgets
+subtitle: Create smashing SilverStripe applications by extending modules, creating themes, and adding widgets
+isbn13: 9781849515009
+price: $26.99
+image: https://itbook.store/img/books/9781849515009.png
+url: https://itbook.store/books/9781849515009
+
+title: Nagios Core Administration Cookbook
+subtitle: Develop an integrated monitoring solution for virtually any kind of network
+isbn13: 9781849515566
+price: $29.99
+image: https://itbook.store/img/books/9781849515566.png
+url: https://itbook.store/books/9781849515566
+
+title: Apache Solr 3 Enterprise Search Server
+subtitle: 
+isbn13: 9781849516068
+price: $29.99
+image: https://itbook.store/img/books/9781849516068.png
+url: https://itbook.store/books/9781849516068
+
+title: Nmap 6: Network Exploration and Security Auditing Cookbook
+subtitle: 
+isbn13: 9781849517485
+price: $26.99
+image: https://itbook.store/img/books/9781849517485.png
+url: https://itbook.store/books/9781849517485
+
+title: CentOS 6 Linux Server Cookbook
+subtitle: A practical guide to installing, configuring, and administering the CentOS community-based enterprise server
+isbn13: 9781849519021
+price: $29.99
+image: https://itbook.store/img/books/9781849519021.png
+url: https://itbook.store/books/9781849519021
+
+title: Microsoft SQL Server 2008 High Availability
+subtitle: Minimize downtime, speed up recovery, and achieve the highest level of availability and reliability for SQL server applications by mastering the concepts of database mirroring, log shipping, clusterin
+isbn13: 9781849681223
+price: $29.99
+image: https://itbook.store/img/books/9781849681223.png
+url: https://itbook.store/books/9781849681223
+
+title: Oracle APEX Best Practices
+subtitle: Accentuate Oracle APEX development with proven best practices
+isbn13: 9781849684002
+price: $24.51
+image: https://itbook.store/img/books/9781849684002.png
+url: https://itbook.store/books/9781849684002
+
+title: Force.com Tips and Tricks
+subtitle: A quick reference guide for administrators and developers to get more productive with Force.com
+isbn13: 9781849684743
+price: $16.99
+image: https://itbook.store/img/books/9781849684743.png
+url: https://itbook.store/books/9781849684743
+
+title: Oracle 11g Anti-hacker's Cookbook
+subtitle: Over 50 recipes and scenarios to hack, defend, and secure your Oracle Database
+isbn13: 9781849685269
+price: $32.99
+image: https://itbook.store/img/books/9781849685269.png
+url: https://itbook.store/books/9781849685269
+
+title: Microsoft SQL Server 2012 Security Cookbook
+subtitle: 
+isbn13: 9781849685887
+price: $29.99
+image: https://itbook.store/img/books/9781849685887.png
+url: https://itbook.store/books/9781849685887
+
+title: Oracle Business Intelligence 11g R1 Cookbook
+subtitle: Make complex analytical reports simple and deliver valuable business data using OBIEE 11g with this comprehensive and practical guide
+isbn13: 9781849686006
+price: $32.99
+image: https://itbook.store/img/books/9781849686006.png
+url: https://itbook.store/books/9781849686006
+
+title: Oracle Advanced PL/SQL Developer Professional Guide
+subtitle: Master advanced PL/SQL concepts along with plenty of example questions for 1Z0-146 examination
+isbn13: 9781849687225
+price: $35.99
+image: https://itbook.store/img/books/9781849687225.png
+url: https://itbook.store/books/9781849687225
+
+title: What's New in SQL Server 2012
+subtitle: Unleash the new features of SQL Server 2012
+isbn13: 9781849687348
+price: $20.99
+image: https://itbook.store/img/books/9781849687348.png
+url: https://itbook.store/books/9781849687348
+
+title: Oracle Enterprise Manager 12c Administration Cookbook
+subtitle: Over 50 practical recipes to install, configure, and monitor your Oracle setup using Oracle Enterprise Manager
+isbn13: 9781849687409
+price: $29.99
+image: https://itbook.store/img/books/9781849687409.png
+url: https://itbook.store/books/9781849687409
+
+title: InnoDB
+subtitle: A quick reference guide to walk you through the setup of InnoDB, and help you start unlocking the engine's potential
+isbn13: 9781849687485
+price: $14.99
+image: https://itbook.store/img/books/9781849687485.png
+url: https://itbook.store/books/9781849687485
+
+title: Oracle Data Guard 11gR2 Administration
+subtitle: Learn how to build and maintain Data Guard configurations with real-life, practical examples
+isbn13: 9781849687904
+price: $35.99
+image: https://itbook.store/img/books/9781849687904.png
+url: https://itbook.store/books/9781849687904
+
+title: Core Data iOS Essentials
+subtitle: A fast-paced, example-driven guide to data-driven iPhone. iPad. and iPod Touch applications
+isbn13: 9781849690942
+price: $26.99
+image: https://itbook.store/img/books/9781849690942.png
+url: https://itbook.store/books/9781849690942
+
+title: Getting Started with NoSQL
+subtitle: Your guide to the world and technology of NoSQL
+isbn13: 9781849694988
+price: $14.99
+image: https://itbook.store/img/books/9781849694988.png
+url: https://itbook.store/books/9781849694988
+
+title: Professional Oracle 8i Application Programming with Java, PL/SQL and XML
+subtitle: 
+isbn13: 9781861004840
+price: $46.47
+image: https://itbook.store/img/books/9781861004840.png
+url: https://itbook.store/books/9781861004840
+
+title: Pluggable Authentication Modules
+subtitle: The Definitive Guide to PAM for Linux SysAdmins and C Developers
+isbn13: 9781904811329
+price: $11.99
+image: https://itbook.store/img/books/9781904811329.png
+url: https://itbook.store/books/9781904811329
+
+title: LINQ in Action
+subtitle: 
+isbn13: 9781933988160
+price: $18.99
+image: https://itbook.store/img/books/9781933988160.png
+url: https://itbook.store/books/9781933988160
+
+title: Erlang and OTP in Action
+subtitle: 
+isbn13: 9781933988788
+price: $29.99
+image: https://itbook.store/img/books/9781933988788.png
+url: https://itbook.store/books/9781933988788
+
+title: Rails Recipes
+subtitle: Rails 3 Edition
+isbn13: 9781934356777
+price: $5.99
+image: https://itbook.store/img/books/9781934356777.png
+url: https://itbook.store/books/9781934356777
+
+title: tmux
+subtitle: Productive Mouse-Free Development
+isbn13: 9781934356968
+price: $15.44
+image: https://itbook.store/img/books/9781934356968.png
+url: https://itbook.store/books/9781934356968
+
+title: PostGIS in Action
+subtitle: 
+isbn13: 9781935182269
+price: $34.99
+image: https://itbook.store/img/books/9781935182269.png
+url: https://itbook.store/books/9781935182269
+
+title: MongoDB in Action
+subtitle: 
+isbn13: 9781935182870
+price: $19.80
+image: https://itbook.store/img/books/9781935182870.png
+url: https://itbook.store/books/9781935182870
+
+title: Making Java Groovy
+subtitle: 
+isbn13: 9781935182948
+price: $33.16
+image: https://itbook.store/img/books/9781935182948.png
+url: https://itbook.store/books/9781935182948
+
+title: Spring Roo in Action
+subtitle: 
+isbn13: 9781935182962
+price: $11.16
+image: https://itbook.store/img/books/9781935182962.png
+url: https://itbook.store/books/9781935182962
+
+title: Programming Groovy 2
+subtitle: Dynamic Productivity for the Java Developer
+isbn13: 9781937785307
+price: $26.50
+image: https://itbook.store/img/books/9781937785307.png
+url: https://itbook.store/books/9781937785307
+
+title: Programming Erlang, 2nd Edition
+subtitle: Software for a Concurrent World
+isbn13: 9781937785536
+price: $34.23
+image: https://itbook.store/img/books/9781937785536.png
+url: https://itbook.store/books/9781937785536
+
+title: Crafting Rails 4 Applications
+subtitle: Expert Practices for Everyday Rails Development
+isbn13: 9781937785550
+price: $30.17
+image: https://itbook.store/img/books/9781937785550.png
+url: https://itbook.store/books/9781937785550
+
+title: Local Binary Patterns
+subtitle: New Variants and Applications
+isbn13: 9783642392887
+price: $99.99
+image: https://itbook.store/img/books/9783642392887.png
+url: https://itbook.store/books/9783642392887
+

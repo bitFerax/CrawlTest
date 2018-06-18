@@ -1,0 +1,67 @@
+Query: bitcoin
+Total: 9
+Books:
+
+title: Learning Bitcoin
+subtitle: Embrace the new world of fiance by leveraging the power of crypto-currencies using Bitcoin and the Blockchain
+isbn13: 9781785287305
+price: $35.99
+image: https://itbook.store/img/books/9781785287305.png
+url: https://itbook.store/books/9781785287305
+
+title: Understanding Bitcoin
+subtitle: Cryptography, Engineering and Economics
+isbn13: 9781119019169
+price: $36.49
+image: https://itbook.store/img/books/9781119019169.png
+url: https://itbook.store/books/9781119019169
+
+title: Mastering Bitcoin
+subtitle: Unlocking Digital Cryptocurrencies
+isbn13: 9781449374044
+price: $111.53
+image: https://itbook.store/img/books/9781449374044.png
+url: https://itbook.store/books/9781449374044
+
+title: Decentralized Applications
+subtitle: Harnessing Bitcoin's Blockchain Technology
+isbn13: 9781491924549
+price: $24.41
+image: https://itbook.store/img/books/9781491924549.png
+url: https://itbook.store/books/9781491924549
+
+title: Mastering Bitcoin, 2nd Edition
+subtitle: Programming the Open Blockchain
+isbn13: 9781491954386
+price: $21.91
+image: https://itbook.store/img/books/9781491954386.png
+url: https://itbook.store/books/9781491954386
+
+title: Bitcoin for the Befuddled
+subtitle: 
+isbn13: 9781593275730
+price: $21.12
+image: https://itbook.store/img/books/9781593275730.png
+url: https://itbook.store/books/9781593275730
+
+title: Blockchain
+subtitle: A Practical Guide to Developing Business, Law, and Technology Solutions
+isbn13: 9781260115871
+price: $22.53
+image: https://itbook.store/img/books/9781260115871.png
+url: https://itbook.store/books/9781260115871
+
+title: Introducing Ethereum and Solidity
+subtitle: Foundations of Cryptocurrency and Blockchain Programming for Beginners
+isbn13: 9781484225349
+price: $35.00
+image: https://itbook.store/img/books/9781484225349.png
+url: https://itbook.store/books/9781484225349
+
+title: Cracking Codes with Python
+subtitle: An Introduction to Building and Breaking Ciphers
+isbn13: 9781593278229
+price: $17.99
+image: https://itbook.store/img/books/9781593278229.png
+url: https://itbook.store/books/9781593278229
+
