@@ -1,0 +1,781 @@
+Query: artificial intelligence
+Total: 111
+Books:
+
+title: Oracle Business Intelligence with Machine Learning
+subtitle: Artificial Intelligence Techniques in OBIEE for Actionable BI
+isbn13: 9781484232545
+price: $44.99
+image: https://itbook.store/img/books/9781484232545.png
+url: https://itbook.store/books/9781484232545
+
+title: Design of Logic-based Intelligent Systems
+subtitle: 
+isbn13: 9780471484035
+price: $72.57
+image: https://itbook.store/img/books/9780471484035.png
+url: https://itbook.store/books/9780471484035
+
+title: Learning OpenCV
+subtitle: Computer Vision with the OpenCV Library
+isbn13: 9780596516130
+price: $39.99
+image: https://itbook.store/img/books/9780596516130.png
+url: https://itbook.store/books/9780596516130
+
+title: Natural Language Processing with Python
+subtitle: Analyzing Text with the Natural Language Toolkit
+isbn13: 9780596516499
+price: $23.15
+image: https://itbook.store/img/books/9780596516499.png
+url: https://itbook.store/books/9780596516499
+
+title: Microsoft XNA Unleashed
+subtitle: Graphics and Game Programming for Xbox 360 and Windows
+isbn13: 9780672329647
+price: $39.99
+image: https://itbook.store/img/books/9780672329647.png
+url: https://itbook.store/books/9780672329647
+
+title: TensorFlow For Dummies
+subtitle: 
+isbn13: 9781119466215
+price: $23.03
+image: https://itbook.store/img/books/9781119466215.png
+url: https://itbook.store/books/9781119466215
+
+title: Pro Android Web Game Apps
+subtitle: Using HTML5, CSS3 and JavaScript
+isbn13: 9781430238195
+price: $32.85
+image: https://itbook.store/img/books/9781430238195.png
+url: https://itbook.store/books/9781430238195
+
+title: Beginning Android Tablet Games Programming
+subtitle: 
+isbn13: 9781430238522
+price: $19.62
+image: https://itbook.store/img/books/9781430238522.png
+url: https://itbook.store/books/9781430238522
+
+title: Arduino Adventures
+subtitle: Escape from Gemini Station
+isbn13: 9781430246053
+price: $32.91
+image: https://itbook.store/img/books/9781430246053.png
+url: https://itbook.store/books/9781430246053
+
+title: Pro HTML5 Games
+subtitle: 
+isbn13: 9781430247104
+price: $36.00
+image: https://itbook.store/img/books/9781430247104.png
+url: https://itbook.store/books/9781430247104
+
+title: 21st Century Robot
+subtitle: The Dr. Simon Egerton Stories
+isbn13: 9781449338213
+price: $11.25
+image: https://itbook.store/img/books/9781449338213.png
+url: https://itbook.store/books/9781449338213
+
+title: Pro Deep Learning with TensorFlow
+subtitle: A Mathematical Approach to Advanced Artificial Intelligence in Python
+isbn13: 9781484230954
+price: $44.99
+image: https://itbook.store/img/books/9781484230954.png
+url: https://itbook.store/books/9781484230954
+
+title: Developing Bots with Microsoft Bots Framework
+subtitle: Create Intelligent Bots using MS Bot Framework and Azure Cognitive Services
+isbn13: 9781484233115
+price: $39.99
+image: https://itbook.store/img/books/9781484233115.png
+url: https://itbook.store/books/9781484233115
+
+title: Practical Python AI Projects
+subtitle: Mathematical Models of Optimization Problems with Google OR-Tools
+isbn13: 9781484234228
+price: $28.94
+image: https://itbook.store/img/books/9781484234228.png
+url: https://itbook.store/books/9781484234228
+
+title: Natural Language Processing with PyTorch
+subtitle: Build Intelligent Language Applications Using Deep Learning
+isbn13: 9781491978238
+price: $56.99
+image: https://itbook.store/img/books/9781491978238.png
+url: https://itbook.store/books/9781491978238
+
+title: Programming the Microsoft Bot Framework
+subtitle: A Multiplatform Approach to Building Chatbots
+isbn13: 9781509304981
+price: $30.50
+image: https://itbook.store/img/books/9781509304981.png
+url: https://itbook.store/books/9781509304981
+
+title: Unity Game Development Scripting
+subtitle: Write efficient C# scripts to create modular key game elements that are usable for any kind of Unity project
+isbn13: 9781783553631
+price: $26.99
+image: https://itbook.store/img/books/9781783553631.png
+url: https://itbook.store/books/9781783553631
+
+title: Mastering Unity Scripting
+subtitle: Learn advanced C# tips and techniques to make professional-grade games with Unity
+isbn13: 9781784390655
+price: $29.99
+image: https://itbook.store/img/books/9781784390655.png
+url: https://itbook.store/books/9781784390655
+
+title: NLTK Essentials
+subtitle: Build cool NLP and machine learning applications using NLTK and other Python libraries
+isbn13: 9781784396909
+price: $23.99
+image: https://itbook.store/img/books/9781784396909.png
+url: https://itbook.store/books/9781784396909
+
+title: Building a Game with Unity and Blender
+subtitle: Learn how to build a complete 3D game using the industry-leading Unity game development engine and Blender, the graphics software that gives life to your ideas
+isbn13: 9781785282140
+price: $35.99
+image: https://itbook.store/img/books/9781785282140.png
+url: https://itbook.store/books/9781785282140
+
+title: Architecting Microsoft Azure Solutions - Exam Guide 70-535
+subtitle: A complete guide to passing the 70-535 Architecting Microsoft Azure Solutions exam
+isbn13: 9781788991735
+price: $35.99
+image: https://itbook.store/img/books/9781788991735.png
+url: https://itbook.store/books/9781788991735
+
+title: Unity 4.x Game AI Programming
+subtitle: Learn and implement game AI in Unity3D with a lot of sample projects and next-generation techniques to use in your Unity3D projects
+isbn13: 9781849693400
+price: $26.99
+image: https://itbook.store/img/books/9781849693400.png
+url: https://itbook.store/books/9781849693400
+
+title: Oracle Business Intelligence: The Condensed Guide to Analysis and Reporting
+subtitle: A fast track guide to uncovering the analytical power of Oracle Business Intelligence: Analytic SQL, Oracle Discoverer, Oracle Reports, and Oracle Warehouse Builder
+isbn13: 9781849681186
+price: $23.99
+image: https://itbook.store/img/books/9781849681186.png
+url: https://itbook.store/books/9781849681186
+
+title: IBM Cognos Business Intelligence
+subtitle: Discover the practical approach to BI with IBM Cognos Business Intelligence
+isbn13: 9781849683562
+price: $38.99
+image: https://itbook.store/img/books/9781849683562.png
+url: https://itbook.store/books/9781849683562
+
+title: Splunk Operational Intelligence Cookbook
+subtitle: Over 70 practical recipes to gain operational data intelligence with Splunk Enterprise
+isbn13: 9781849697842
+price: $29.99
+image: https://itbook.store/img/books/9781849697842.png
+url: https://itbook.store/books/9781849697842
+
+title: Computational Intelligence and Feature Selection
+subtitle: Rough and Fuzzy Approaches
+isbn13: 9780470229750
+price: $129.67
+image: https://itbook.store/img/books/9780470229750.png
+url: https://itbook.store/books/9780470229750
+
+title: Decision Support Systems for Business Intelligence, 2nd Edition
+subtitle: 
+isbn13: 9780470433744
+price: $114.22
+image: https://itbook.store/img/books/9780470433744.png
+url: https://itbook.store/books/9780470433744
+
+title: Microsoft Business Intelligence For Dummies
+subtitle: 
+isbn13: 9780470526934
+price: $22.99
+image: https://itbook.store/img/books/9780470526934.png
+url: https://itbook.store/books/9780470526934
+
+title: Computational Intelligence and Pattern Analysis in Biology Informatics
+subtitle: 
+isbn13: 9780470581599
+price: $115.00
+image: https://itbook.store/img/books/9780470581599.png
+url: https://itbook.store/books/9780470581599
+
+title: Programming Collective Intelligence
+subtitle: Building Smart Web 2.0 Applications
+isbn13: 9780596529321
+price: $18.98
+image: https://itbook.store/img/books/9780596529321.png
+url: https://itbook.store/books/9780596529321
+
+title: Microsoft SharePoint 2010 Business Intelligence Unleashed
+subtitle: 
+isbn13: 9780672335518
+price: $18.00
+image: https://itbook.store/img/books/9780672335518.png
+url: https://itbook.store/books/9780672335518
+
+title: Business Intelligence in Microsoft SharePoint 2013
+subtitle: 
+isbn13: 9780735675438
+price: $27.99
+image: https://itbook.store/img/books/9780735675438.png
+url: https://itbook.store/books/9780735675438
+
+title: SharePoint 2010 Business Intelligence 24-Hour Trainer
+subtitle: 
+isbn13: 9781118026427
+price: $10.39
+image: https://itbook.store/img/books/9781118026427.png
+url: https://itbook.store/books/9781118026427
+
+title: Business Intelligence and the Cloud
+subtitle: Strategic Implementation Guide
+isbn13: 9781118631720
+price: $27.12
+image: https://itbook.store/img/books/9781118631720.png
+url: https://itbook.store/books/9781118631720
+
+title: Security Intelligence
+subtitle: A Practitioner's Guide to Solving Enterprise Security Challenges
+isbn13: 9781118896693
+price: $42.33
+image: https://itbook.store/img/books/9781118896693.png
+url: https://itbook.store/books/9781118896693
+
+title: Actionable Intelligence
+subtitle: A Guide to Delivering Business Results with Big Data Fast!
+isbn13: 9781118915233
+price: $25.39
+image: https://itbook.store/img/books/9781118915233.png
+url: https://itbook.store/books/9781118915233
+
+title: Applied Microsoft Business Intelligence
+subtitle: 
+isbn13: 9781118961773
+price: $38.02
+image: https://itbook.store/img/books/9781118961773.png
+url: https://itbook.store/books/9781118961773
+
+title: Silverlight 4 Business Intelligence Software
+subtitle: 
+isbn13: 9781430230601
+price: $9.10
+image: https://itbook.store/img/books/9781430230601.png
+url: https://itbook.store/books/9781430230601
+
+title: PowerPivot for Business Intelligence Using Excel and SharePoint
+subtitle: 
+isbn13: 9781430233800
+price: $18.00
+image: https://itbook.store/img/books/9781430233800.png
+url: https://itbook.store/books/9781430233800
+
+title: Pro SharePoint 2013 Business Intelligence Solutions
+subtitle: 
+isbn13: 9781430258933
+price: $51.56
+image: https://itbook.store/img/books/9781430258933.png
+url: https://itbook.store/books/9781430258933
+
+title: The Four Intelligences of the Business Mind
+subtitle: How to Rewire Your Brain and Your Business for Success
+isbn13: 9781430261636
+price: $29.58
+image: https://itbook.store/img/books/9781430261636.png
+url: https://itbook.store/books/9781430261636
+
+title: Beginning Power BI with Excel 2013
+subtitle: Self-Service Business Intelligence Using Power Pivot, Power View, Power Query, and Power Map
+isbn13: 9781430264453
+price: $27.05
+image: https://itbook.store/img/books/9781430264453.png
+url: https://itbook.store/books/9781430264453
+
+title: Developing Business Intelligence Apps for SharePoint
+subtitle: Combine the Power of SharePoint, LightSwitch, Power View, and SQL Server 2012
+isbn13: 9781449320836
+price: $30.07
+image: https://itbook.store/img/books/9781449320836.png
+url: https://itbook.store/books/9781449320836
+
+title: Business Intelligence with SQL Server Reporting Services
+subtitle: 
+isbn13: 9781484205334
+price: $49.99
+image: https://itbook.store/img/books/9781484205334.png
+url: https://itbook.store/books/9781484205334
+
+title: Intelligence-Driven Incident Response
+subtitle: Outwitting the Adversary
+isbn13: 9781491934944
+price: $48.47
+image: https://itbook.store/img/books/9781491934944.png
+url: https://itbook.store/books/9781491934944
+
+title: IBM Cognos 10 Framework Manager
+subtitle: A comprehensive, practical guide to using this essential tool for modeling your data for use with IBM Cognos Business Intelligence Reporting
+isbn13: 9781849685764
+price: $20.99
+image: https://itbook.store/img/books/9781849685764.png
+url: https://itbook.store/books/9781849685764
+
+title: Oracle Business Intelligence 11g R1 Cookbook
+subtitle: Make complex analytical reports simple and deliver valuable business data using OBIEE 11g with this comprehensive and practical guide
+isbn13: 9781849686006
+price: $32.99
+image: https://itbook.store/img/books/9781849686006.png
+url: https://itbook.store/books/9781849686006
+
+title: QlikView 11 for Developers
+subtitle: Develop Business Intelligence applications with QlikView 11
+isbn13: 9781849686068
+price: $35.99
+image: https://itbook.store/img/books/9781849686068.png
+url: https://itbook.store/books/9781849686068
+
+title: Microsoft SQL Server 2014 Business Intelligence Development
+subtitle: Get to grips with Microsoft Business Intelligence and data warehousing technologies using this practical guide
+isbn13: 9781849688888
+price: $29.99
+image: https://itbook.store/img/books/9781849688888.png
+url: https://itbook.store/books/9781849688888
+
+title: Oracle E-Business Suite Development & Extensibility Handbook
+subtitle: 
+isbn13: 9780071629423
+price: $25.64
+image: https://itbook.store/img/books/9780071629423.png
+url: https://itbook.store/books/9780071629423
+
+title: BIRT: A Field Guide, 3rd Edition
+subtitle: 
+isbn13: 9780321733580
+price: $43.99
+image: https://itbook.store/img/books/9780321733580.png
+url: https://itbook.store/books/9780321733580
+
+title: Professional Microsoft SQL Server 2012 Reporting Services
+subtitle: 
+isbn13: 9781118101117
+price: $27.70
+image: https://itbook.store/img/books/9781118101117.png
+url: https://itbook.store/books/9781118101117
+
+title: Professional Microsoft SQL Server 2012 Administration
+subtitle: 
+isbn13: 9781118106884
+price: $14.77
+image: https://itbook.store/img/books/9781118106884.png
+url: https://itbook.store/books/9781118106884
+
+title: Visual Intelligence
+subtitle: Microsoft Tools and Techniques for Visualizing Data
+isbn13: 9781118388037
+price: $37.50
+image: https://itbook.store/img/books/9781118388037.png
+url: https://itbook.store/books/9781118388037
+
+title: Knight's Microsoft SQL Server 2012 Integration Services 24-Hour Trainer
+subtitle: 
+isbn13: 9781118479582
+price: $28.58
+image: https://itbook.store/img/books/9781118479582.png
+url: https://itbook.store/books/9781118479582
+
+title: The Visual Organization
+subtitle: Data Visualization, Big Data, and the Quest for Better Decisions
+isbn13: 9781118794388
+price: $14.94
+image: https://itbook.store/img/books/9781118794388.png
+url: https://itbook.store/books/9781118794388
+
+title: Excel Dashboards and Reports For Dummies, 2nd Edition
+subtitle: 
+isbn13: 9781118842249
+price: $19.74
+image: https://itbook.store/img/books/9781118842249.png
+url: https://itbook.store/books/9781118842249
+
+title: Data Mining For Dummies
+subtitle: 
+isbn13: 9781118893173
+price: $26.24
+image: https://itbook.store/img/books/9781118893173.png
+url: https://itbook.store/books/9781118893173
+
+title: Professional Microsoft SQL Server 2016 Reporting Services and Mobile Reports
+subtitle: 
+isbn13: 9781119258353
+price: $32.00
+image: https://itbook.store/img/books/9781119258353.png
+url: https://itbook.store/books/9781119258353
+
+title: Hacking Exposed Industrial Control Systems
+subtitle: ICS and SCADA Security Secrets & Solutions
+isbn13: 9781259589713
+price: $19.69
+image: https://itbook.store/img/books/9781259589713.png
+url: https://itbook.store/books/9781259589713
+
+title: Python 3 for Absolute Beginners
+subtitle: 
+isbn13: 9781430216322
+price: $24.99
+image: https://itbook.store/img/books/9781430216322.png
+url: https://itbook.store/books/9781430216322
+
+title: Pro SQL Server 2012 BI Solutions
+subtitle: 
+isbn13: 9781430234883
+price: $44.09
+image: https://itbook.store/img/books/9781430234883.png
+url: https://itbook.store/books/9781430234883
+
+title: Pro SharePoint 2010 Administration
+subtitle: 
+isbn13: 9781430237921
+price: $7.99
+image: https://itbook.store/img/books/9781430237921.png
+url: https://itbook.store/books/9781430237921
+
+title: Expert SharePoint 2010 Practices
+subtitle: 
+isbn13: 9781430238706
+price: $20.01
+image: https://itbook.store/img/books/9781430238706.png
+url: https://itbook.store/books/9781430238706
+
+title: Pro SharePoint 2013 Administration, 2nd Edition
+subtitle: 
+isbn13: 9781430249412
+price: $49.99
+image: https://itbook.store/img/books/9781430249412.png
+url: https://itbook.store/books/9781430249412
+
+title: Big Data Analytics Using Splunk
+subtitle: Deriving Operational Intelligence from Social Media, Machine Data, Existing Data Warehouses, and Other Real-Time Streaming Sources
+isbn13: 9781430257615
+price: $33.99
+image: https://itbook.store/img/books/9781430257615.png
+url: https://itbook.store/books/9781430257615
+
+title: Practical Methods of Financial Engineering and Risk Management
+subtitle: Tools for Modern Financial Professionals
+isbn13: 9781430261339
+price: $55.05
+image: https://itbook.store/img/books/9781430261339.png
+url: https://itbook.store/books/9781430261339
+
+title: High Impact Data Visualization with Power View, Power Map, and Power BI
+subtitle: 
+isbn13: 9781430266167
+price: $49.99
+image: https://itbook.store/img/books/9781430266167.png
+url: https://itbook.store/books/9781430266167
+
+title: Game Analytics
+subtitle: Maximizing the Value of Player Data
+isbn13: 9781447147695
+price: $84.99
+image: https://itbook.store/img/books/9781447147695.png
+url: https://itbook.store/books/9781447147695
+
+title: iPhone: The Missing Manual, 4th Edition
+subtitle: Covers iPhone 4 & All Other Models with iOS 4 Software
+isbn13: 9781449393656
+price: $9.99
+image: https://itbook.store/img/books/9781449393656.png
+url: https://itbook.store/books/9781449393656
+
+title: SQL Server Integration Services Design Patterns, 2nd Edition
+subtitle: 
+isbn13: 9781484200834
+price: $51.08
+image: https://itbook.store/img/books/9781484200834.png
+url: https://itbook.store/books/9781484200834
+
+title: Databases for Small Business
+subtitle: Essentials of Database Management, Data Analysis, and Staff Training for Entrepreneurs and Professionals
+isbn13: 9781484202784
+price: $41.14
+image: https://itbook.store/img/books/9781484202784.png
+url: https://itbook.store/books/9781484202784
+
+title: Predictive Analytics with Microsoft Azure Machine Learning
+subtitle: Build and Deploy Actionable Solutions in Minutes
+isbn13: 9781484204467
+price: $43.68
+image: https://itbook.store/img/books/9781484204467.png
+url: https://itbook.store/books/9781484204467
+
+title: Pro Power BI Desktop
+subtitle: 
+isbn13: 9781484218044
+price: $49.99
+image: https://itbook.store/img/books/9781484218044.png
+url: https://itbook.store/books/9781484218044
+
+title: Dynamic SQL
+subtitle: Applications, Performance, and Security
+isbn13: 9781484218105
+price: $37.99
+image: https://itbook.store/img/books/9781484218105.png
+url: https://itbook.store/books/9781484218105
+
+title: Beginning SQL Queries, 2nd Edition
+subtitle: From Novice to Professional
+isbn13: 9781484219546
+price: $18.84
+image: https://itbook.store/img/books/9781484219546.png
+url: https://itbook.store/books/9781484219546
+
+title: XML and JSON Recipes for SQL Server
+subtitle: A Problem-Solution Approach
+isbn13: 9781484231166
+price: $34.99
+image: https://itbook.store/img/books/9781484231166.png
+url: https://itbook.store/books/9781484231166
+
+title: Reinforcement Learning
+subtitle: With Open AI, TensorFlow and Keras Using Python
+isbn13: 9781484232842
+price: $26.96
+image: https://itbook.store/img/books/9781484232842.png
+url: https://itbook.store/books/9781484232842
+
+title: Oracle SQL Revealed
+subtitle: Executing Business Logic in the Database Engine
+isbn13: 9781484233719
+price: $28.50
+image: https://itbook.store/img/books/9781484233719.png
+url: https://itbook.store/books/9781484233719
+
+title: Building Intelligent Systems
+subtitle: A Guide to Machine Learning Engineering
+isbn13: 9781484234310
+price: $31.38
+image: https://itbook.store/img/books/9781484234310.png
+url: https://itbook.store/books/9781484234310
+
+title: Beginning DAX with Power BI
+subtitle: The SQL Pro's Guide to Better Business Intelligence
+isbn13: 9781484234761
+price: $32.07
+image: https://itbook.store/img/books/9781484234761.png
+url: https://itbook.store/books/9781484234761
+
+title: Optimizing Data-to-Learning-to-Action
+subtitle: The Modern Approach to Continuous Performance Improvement for Businesses
+isbn13: 9781484235300
+price: $24.98
+image: https://itbook.store/img/books/9781484235300.png
+url: https://itbook.store/books/9781484235300
+
+title: Fundamentals of Deep Learning
+subtitle: Designing Next-Generation Machine Intelligence Algorithms
+isbn13: 9781491925614
+price: $24.59
+image: https://itbook.store/img/books/9781491925614.png
+url: https://itbook.store/books/9781491925614
+
+title: Crafting the InfoSec Playbook
+subtitle: Security Monitoring and Incident Response Master Plan
+isbn13: 9781491949405
+price: $41.05
+image: https://itbook.store/img/books/9781491949405.png
+url: https://itbook.store/books/9781491949405
+
+title: Network Security Through Data Analysis, 2nd Edition
+subtitle: From Data to Action
+isbn13: 9781491962848
+price: $30.58
+image: https://itbook.store/img/books/9781491962848.png
+url: https://itbook.store/books/9781491962848
+
+title: Programming for the Internet of Things
+subtitle: Using Windows 10 IoT Core and Azure IoT Suite
+isbn13: 9781509302062
+price: $22.27
+image: https://itbook.store/img/books/9781509302062.png
+url: https://itbook.store/books/9781509302062
+
+title: Exam Ref 70-768 Developing SQL Data Models
+subtitle: 
+isbn13: 9781509305155
+price: $24.61
+image: https://itbook.store/img/books/9781509305155.png
+url: https://itbook.store/books/9781509305155
+
+title: Exam Ref 70-767 Implementing a SQL Data Warehouse
+subtitle: 
+isbn13: 9781509306473
+price: $31.99
+image: https://itbook.store/img/books/9781509306473.png
+url: https://itbook.store/books/9781509306473
+
+title: Microsoft Azure Security Center
+subtitle: 
+isbn13: 9781509307036
+price: $27.99
+image: https://itbook.store/img/books/9781509307036.png
+url: https://itbook.store/books/9781509307036
+
+title: Investigating the Cyber Breach
+subtitle: The Digital Forensics Guide for the Network Engineer
+isbn13: 9781587145025
+price: $39.39
+image: https://itbook.store/img/books/9781587145025.png
+url: https://itbook.store/books/9781587145025
+
+title: Eloquent JavaScript, 2nd Edition
+subtitle: A Modern Introduction to Programming
+isbn13: 9781593275846
+price: $23.99
+image: https://itbook.store/img/books/9781593275846.png
+url: https://itbook.store/books/9781593275846
+
+title: Practical Data Science with R
+subtitle: 
+isbn13: 9781617291562
+price: $36.97
+image: https://itbook.store/img/books/9781617291562.png
+url: https://itbook.store/books/9781617291562
+
+title: Microsoft Dynamics NAV Financial Management
+subtitle: Delve deep into the world of financial management with Microsoft Dynamics NAV
+isbn13: 9781782171621
+price: $23.99
+image: https://itbook.store/img/books/9781782171621.png
+url: https://itbook.store/books/9781782171621
+
+title: Getting Started with SQL Server 2014 Administration
+subtitle: Optimize your database server to be fast, efficient, and highly secure using the brand new features of SQL Server 2014
+isbn13: 9781782172413
+price: $16.99
+image: https://itbook.store/img/books/9781782172413.png
+url: https://itbook.store/books/9781782172413
+
+title: SAP BusinessObjects Reporting Cookbook
+subtitle: Over 80 recipes to help you build, customize, and distribute reports using SAP BusinessObjects
+isbn13: 9781782172437
+price: $32.99
+image: https://itbook.store/img/books/9781782172437.png
+url: https://itbook.store/books/9781782172437
+
+title: Mastering QlikView
+subtitle: Let QlikView help you uncover game-changing BI data insights with this advanced QlikView guide, designed for a world that demands better Business Intelligence
+isbn13: 9781782173298
+price: $35.99
+image: https://itbook.store/img/books/9781782173298.png
+url: https://itbook.store/books/9781782173298
+
+title: Getting Started with Greenplum for Big Data Analytics
+subtitle: A hands-on guide on how to execute an analytics project from conceptualization to operationalization using Greenplum
+isbn13: 9781782177043
+price: $23.99
+image: https://itbook.store/img/books/9781782177043.png
+url: https://itbook.store/books/9781782177043
+
+title: Microsoft SQL Server 2012 with Hadoop
+subtitle: Integrate data between Apache Hadoop and SQL Server 2012 and provide business intelligence on the heterogeneous data
+isbn13: 9781782177982
+price: $23.99
+image: https://itbook.store/img/books/9781782177982.png
+url: https://itbook.store/books/9781782177982
+
+title: Getting Started with Amazon Redshift
+subtitle: Enter the exciting world of Amazon Redshift for big data, cloud computing, and scalable data warehousing
+isbn13: 9781782178088
+price: $14.99
+image: https://itbook.store/img/books/9781782178088.png
+url: https://itbook.store/books/9781782178088
+
+title: QlikView Server and Publisher
+subtitle: 
+isbn13: 9781782179856
+price: $20.99
+image: https://itbook.store/img/books/9781782179856.png
+url: https://itbook.store/books/9781782179856
+
+title: Learning QlikView Data Visualization
+subtitle: Visualize and analyze data with the most intuitive business intelligence tool, QlikView
+isbn13: 9781782179894
+price: $22.99
+image: https://itbook.store/img/books/9781782179894.png
+url: https://itbook.store/books/9781782179894
+
+title: Learning iOS Forensics
+subtitle: A practical hands-on guide to acquire and analyze iOS devices with the latest forensic techniques and tools
+isbn13: 9781783553518
+price: $31.99
+image: https://itbook.store/img/books/9781783553518.png
+url: https://itbook.store/books/9781783553518
+
+title: Elasticsearch Indexing
+subtitle: Improve search experiences with ElasticSearch's powerful indexing functionality - learn how with this practical ElasticSearch tutorial, packed with tips!
+isbn13: 9781783987023
+price: $19.38
+image: https://itbook.store/img/books/9781783987023.png
+url: https://itbook.store/books/9781783987023
+
+title: Knowledge Needs and Information Extraction
+subtitle: Towards an Artificial Consciousness
+isbn13: 9781848215153
+price: $92.99
+image: https://itbook.store/img/books/9781848215153.png
+url: https://itbook.store/books/9781848215153
+
+title: Mastering SQL Queries for SAP Business One
+subtitle: Utilize the power of SQL queries to bring Business Intelligence to your small to medium-sized business
+isbn13: 9781849682367
+price: $32.99
+image: https://itbook.store/img/books/9781849682367.png
+url: https://itbook.store/books/9781849682367
+
+title: Oracle Business Intelligence Enterprise Edition 11g
+subtitle: A Hands-On Tutorial
+isbn13: 9781849685665
+price: $35.99
+image: https://itbook.store/img/books/9781849685665.png
+url: https://itbook.store/books/9781849685665
+
+title: IBM Cognos Business Intelligence 10.1 Dashboarding Cookbook
+subtitle: 
+isbn13: 9781849685825
+price: $29.99
+image: https://itbook.store/img/books/9781849685825.png
+url: https://itbook.store/books/9781849685825
+
+title: Oracle Primavera Contract Management
+subtitle: Business Intelligence Publisher Edition v14
+isbn13: 9781849686907
+price: $20.99
+image: https://itbook.store/img/books/9781849686907.png
+url: https://itbook.store/books/9781849686907
+
+title: What's New in SQL Server 2012
+subtitle: Unleash the new features of SQL Server 2012
+isbn13: 9781849687348
+price: $20.99
+image: https://itbook.store/img/books/9781849687348.png
+url: https://itbook.store/books/9781849687348
+
+title: Implementing Splunk
+subtitle: Big Data Reporting and Development for Operational Intelligence
+isbn13: 9781849693288
+price: $29.99
+image: https://itbook.store/img/books/9781849693288.png
+url: https://itbook.store/books/9781849693288
+
+title: Co-evolution of Intelligent Socio-technical Systems
+subtitle: 
+isbn13: 9783642366130
+price: $150.88
+image: https://itbook.store/img/books/9783642366130.png
+url: https://itbook.store/books/9783642366130
+
